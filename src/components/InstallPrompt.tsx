@@ -30,7 +30,17 @@ export function InstallPrompt() {
       setHidden(false);
     }
 
-    return () => window.removeEventListener("beforeinstallprompt", onPrompt);
+    const onInstalled = () => {
+      window.localStorage.setItem(DISMISS_KEY, "1");
+      setHidden(true);
+      setEvent(null);
+    };
+    window.addEventListener("appinstalled", onInstalled);
+
+    return () => {
+      window.removeEventListener("beforeinstallprompt", onPrompt);
+      window.removeEventListener("appinstalled", onInstalled);
+    };
   }, []);
 
   if (hidden) return null;
