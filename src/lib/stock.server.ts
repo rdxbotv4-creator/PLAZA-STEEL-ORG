@@ -10,20 +10,10 @@
  *  - a repeated "description" key, where the 2nd occurrence is the vendor name
  */
 
-export type StockItem = {
-  id: string;
-  code: string;
-  name: string;
-  category: string;
-  brand: string;
-  vendor: string;
-  rate: number;
-  cost: number;
-  qty: number;
-  isWestPoint: boolean;
-};
+import type { PublicItem, StockItem } from "./stock-types";
 
-export type PublicItem = Omit<StockItem, "cost" | "vendor">;
+export type { PublicItem, StockItem };
+
 
 const rawFiles = import.meta.glob("/list/*.json", {
   query: "?raw",
