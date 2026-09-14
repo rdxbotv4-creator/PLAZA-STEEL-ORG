@@ -10,33 +10,43 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as WestpointRouteImport } from './routes/westpoint'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const WestpointRoute = WestpointRouteImport.update({
+  id: '/westpoint',
+  path: '/westpoint',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/westpoint': typeof WestpointRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/westpoint': typeof WestpointRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/westpoint': typeof WestpointRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths: '/' | '/westpoint'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to: '/' | '/westpoint'
+  id: '__root__' | '/' | '/westpoint'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  WestpointRoute: typeof WestpointRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +58,19 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/westpoint': {
+      id: '/westpoint'
+      path: '/westpoint'
+      fullPath: '/westpoint'
+      preLoaderRoute: typeof WestpointRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  WestpointRoute: WestpointRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
