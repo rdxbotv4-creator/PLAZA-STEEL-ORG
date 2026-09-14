@@ -10,11 +10,17 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as EstimateRouteImport } from './routes/estimate'
 import { Route as WestpointRouteImport } from './routes/westpoint'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const EstimateRoute = EstimateRouteImport.update({
+  id: '/estimate',
+  path: '/estimate',
   getParentRoute: () => rootRouteImport,
 } as any)
 const WestpointRoute = WestpointRouteImport.update({
@@ -25,27 +31,31 @@ const WestpointRoute = WestpointRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/estimate': typeof EstimateRoute
   '/westpoint': typeof WestpointRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/estimate': typeof EstimateRoute
   '/westpoint': typeof WestpointRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/estimate': typeof EstimateRoute
   '/westpoint': typeof WestpointRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/westpoint'
+  fullPaths: '/' | '/estimate' | '/westpoint'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/westpoint'
-  id: '__root__' | '/' | '/westpoint'
+  to: '/' | '/estimate' | '/westpoint'
+  id: '__root__' | '/' | '/estimate' | '/westpoint'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  EstimateRoute: typeof EstimateRoute
   WestpointRoute: typeof WestpointRoute
 }
 
@@ -56,6 +66,13 @@ declare module '@tanstack/react-router' {
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/estimate': {
+      id: '/estimate'
+      path: '/estimate'
+      fullPath: '/estimate'
+      preLoaderRoute: typeof EstimateRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/westpoint': {
@@ -70,6 +87,7 @@ declare module '@tanstack/react-router' {
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  EstimateRoute: EstimateRoute,
   WestpointRoute: WestpointRoute,
 }
 export const routeTree = rootRouteImport
