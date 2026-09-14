@@ -2,7 +2,7 @@ import { createServerFn } from "@tanstack/react-start";
 import { useSession } from "@tanstack/react-start/server";
 import { createHash, timingSafeEqual } from "node:crypto";
 
-import type { PublicItem, StockItem } from "./stock.server";
+import type { PublicItem, StockItem } from "./stock-types";
 
 type AdminSession = { admin?: boolean };
 
