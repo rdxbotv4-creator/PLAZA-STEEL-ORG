@@ -77,7 +77,7 @@
  },
  {
   "description": "1045 MEAT MINDER",
-  "qty_inhand": 10,
+  "qty_inhand": 9,
   "cost": 19700,
   "rate": 23680,
   "code": "WP-1045",
@@ -87,7 +87,7 @@
  },
  {
   "description": "1090 MEAT MINDER",
-  "qty_inhand": 14,
+  "qty_inhand": 12,
   "cost": 10200,
   "rate": 12650,
   "code": "WP-1090",
@@ -107,7 +107,7 @@
  },
  {
   "description": "1098 MEAT MINDER & VEG CUTER",
-  "qty_inhand": 10,
+  "qty_inhand": 8,
   "cost": 10500,
   "rate": 12650,
   "code": "WP-1098",
@@ -117,7 +117,7 @@
  },
  {
   "description": "1099 MEAT MINDER",
-  "qty_inhand": 13,
+  "qty_inhand": 11,
   "cost": 11450,
   "rate": 13780,
   "code": "WP-1099",
@@ -164,7 +164,7 @@
  },
  {
   "description": "1154 GARMENT STEAMER",
-  "qty_inhand": 4,
+  "qty_inhand": 3,
   "cost": 18700,
   "rate": 22460,
   "code": "WF-1154",
@@ -204,7 +204,7 @@
  },
  {
   "description": "1159 GARMENT STEAMER",
-  "qty_inhand": 2,
+  "qty_inhand": 1,
   "cost": 32300,
   "rate": 38790,
   "code": "WP-1159",
@@ -214,7 +214,7 @@
  },
  {
   "description": "1186 JUICER",
-  "qty_inhand": 3,
+  "qty_inhand": 1,
   "cost": 9800,
   "rate": 11780,
   "code": "WP-1186",
@@ -253,7 +253,7 @@
  },
  {
   "description": "1253 HANDY GARMENT STEAMER",
-  "qty_inhand": 6,
+  "qty_inhand": 5,
   "cost": 7550,
   "rate": 9380,
   "code": "WP-1253",
@@ -302,7 +302,7 @@
   "fld_brand": "WEST POINT"
  },
  {
-  "description": "1306 (AC\/DC MODEL)(NET RATE)",
+  "description": "1306 (AC/DC MODEL)(NET RATE)",
   "qty_inhand": 0,
   "cost": 23500,
   "rate": 27650,
@@ -343,7 +343,7 @@
  },
  {
   "description": "142 CERAMIC COOKER",
-  "qty_inhand": 12,
+  "qty_inhand": 10,
   "cost": 14700,
   "rate": 17690,
   "code": "WP-142",
@@ -353,7 +353,7 @@
  },
  {
   "description": "143 INDUCTION COOKER",
-  "qty_inhand": 7,
+  "qty_inhand": 6,
   "cost": 17000,
   "rate": 20450,
   "code": "WP-143",
@@ -363,7 +363,7 @@
  },
  {
   "description": "152 CERAMIC COOKER",
-  "qty_inhand": 19,
+  "qty_inhand": 14,
   "cost": 16100,
   "rate": 19360,
   "code": "WP-152",
@@ -379,15 +379,6 @@
   "code": "WP-162",
   "description": "WEST POINT (KARACHI)",
   "catagory": "HOT PLATE",
-  "fld_brand": "WEST POINT"
- },
- {
-  "description": "1800 ELECTRIC OVEN (18L)",
-  "qty_inhand": 0,
-  "cost": 12500,
-  "rate": 15030,
-  "code": "WP-1800",
-  "catagory": "TOSTER & ELECTRIC OVEN",
   "fld_brand": "WEST POINT"
  },
  {
@@ -494,7 +485,7 @@
  },
  {
   "description": "2063 IRON",
-  "qty_inhand": 8,
+  "qty_inhand": 4,
   "cost": 7800,
   "rate": 9380,
   "code": "WP-2063",
@@ -512,7 +503,7 @@
  },
  {
   "description": "2065 IRON",
-  "qty_inhand": 7,
+  "qty_inhand": 5,
   "cost": 7500,
   "rate": 9200,
   "code": "WP-2065",
@@ -540,7 +531,7 @@
  },
  {
   "description": "231 STICK HANDY (MADE IN TURKEY)",
-  "qty_inhand": 10,
+  "qty_inhand": 7,
   "cost": 12800,
   "rate": 15390,
   "code": "WP-231",
@@ -588,7 +579,7 @@
  },
  {
   "description": "2409 JUICER (4*1)",
-  "qty_inhand": 4,
+  "qty_inhand": 1,
   "cost": 13400,
   "rate": 16100,
   "code": "WP-2409",
@@ -608,7 +599,7 @@
  },
  {
   "description": "2431 IRON",
-  "qty_inhand": 9,
+  "qty_inhand": 7,
   "cost": 4750,
   "rate": 6000,
   "code": "WP-2431",
@@ -648,7 +639,7 @@
  },
  {
   "description": "2532 TOSTER",
-  "qty_inhand": 4,
+  "qty_inhand": 3,
   "cost": 7350,
   "rate": 10360,
   "code": "WP-2532",
@@ -667,7 +658,7 @@
  },
  {
   "description": "2540 TOSTER",
-  "qty_inhand": 4,
+  "qty_inhand": 2,
   "cost": 6850,
   "rate": 8820,
   "code": "WP-2540",
@@ -686,7 +677,7 @@
  },
  {
   "description": "2553 TOSTER",
-  "qty_inhand": 3,
+  "qty_inhand": 1,
   "cost": 5800,
   "rate": 6980,
   "code": "WP-2553",
@@ -785,7 +776,7 @@
  },
  {
   "description": "2804 FOOD PROCESSOR (9*1)",
-  "qty_inhand": 20,
+  "qty_inhand": 19,
   "cost": 16500,
   "rate": 19850,
   "code": "WP-2804",
@@ -855,7 +846,7 @@
  },
  {
   "description": "302 BLENDER (DOUBLE)",
-  "qty_inhand": 2,
+  "qty_inhand": 0,
   "cost": 8500,
   "rate": 10460,
   "code": "WP-302",
@@ -895,7 +886,7 @@
  },
  {
   "description": "3050 MEAT MINDER",
-  "qty_inhand": 11,
+  "qty_inhand": 10,
   "cost": 24600,
   "rate": 29540,
   "code": "WP-3050",
@@ -961,7 +952,7 @@
  },
  {
   "description": "312 BLENDER",
-  "qty_inhand": 7,
+  "qty_inhand": 5,
   "cost": 6950,
   "rate": 8360,
   "code": "WP-312",
@@ -969,17 +960,8 @@
   "fld_brand": "WEST POINT"
  },
  {
-  "description": "313 BLENDER",
-  "qty_inhand": 1,
-  "cost": 6950,
-  "rate": 8360,
-  "code": "WP-313",
-  "catagory": "BLENDER",
-  "fld_brand": "WEST POINT"
- },
- {
   "description": "314 BLENDER",
-  "qty_inhand": 1,
+  "qty_inhand": 2,
   "cost": 6950,
   "rate": 8360,
   "code": "WP-314",
@@ -998,7 +980,7 @@
  },
  {
   "description": "3166 PIZZA PAN",
-  "qty_inhand": 5,
+  "qty_inhand": 3,
   "cost": 9350,
   "rate": 11540,
   "code": "WP-3166",
@@ -1008,7 +990,7 @@
  },
  {
   "description": "3256 AIR FRYER (4 LITER)",
-  "qty_inhand": 2,
+  "qty_inhand": 0,
   "cost": 19200,
   "rate": 23060,
   "code": "WP-3256",
@@ -1048,7 +1030,7 @@
  },
  {
   "description": "3321 BLENDER (SINGLE)",
-  "qty_inhand": 10,
+  "qty_inhand": 9,
   "cost": 6400,
   "rate": 7710,
   "code": "WP-3321",
@@ -1058,7 +1040,7 @@
  },
  {
   "description": "333 BLENDER (DOUBLE)",
-  "qty_inhand": 2,
+  "qty_inhand": 1,
   "cost": 6350,
   "rate": 8250,
   "code": "WP-333",
@@ -1143,11 +1125,12 @@
   "fld_brand": "WEST POINT"
  },
  {
-  "description": "364 BLANDER GRINDER (2*1)",
+  "description": "364 BLENDER GRINDER (2*1)",
   "qty_inhand": 0,
   "cost": 13900,
   "rate": 16700,
   "code": "WP-364",
+  "description": "WEST POINT (KARACHI)",
   "catagory": "BLENDER",
   "fld_brand": "WEST POINT"
  },
@@ -1163,7 +1146,7 @@
  },
  {
   "description": "3669 DRUM TYP STEL BODY",
-  "qty_inhand": 7,
+  "qty_inhand": 6,
   "cost": 30250,
   "rate": 36350,
   "code": "WP-3669",
@@ -1172,16 +1155,17 @@
   "fld_brand": "WEST POINT"
  },
  {
-  "description": "367 BLANDER GRINDER (3*1)",
-  "qty_inhand": 7,
+  "description": "367 BLENDER GRINDER (3*1)",
+  "qty_inhand": 5,
   "cost": 17100,
   "rate": 20540,
   "code": "WP-367",
+  "description": "WEST POINT (KARACHI)",
   "catagory": "BLENDER",
   "fld_brand": "WEST POINT"
  },
  {
-  "description": "372 BLANDER (SINGEL)",
+  "description": "372 BLENDER (SINGEL)",
   "qty_inhand": 0,
   "cost": 10300,
   "rate": 12390,
@@ -1191,7 +1175,7 @@
   "fld_brand": "WEST POINT"
  },
  {
-  "description": "373 BLANDER (DOUBLE)",
+  "description": "373 BLENDER (DOUBLE)",
   "qty_inhand": 6,
   "cost": 11400,
   "rate": 13710,
@@ -1259,7 +1243,7 @@
  },
  {
   "description": "411 KATTLE",
-  "qty_inhand": 7,
+  "qty_inhand": 6,
   "cost": 4600,
   "rate": 7520,
   "code": "WP-411",
@@ -1285,7 +1269,7 @@
   "fld_brand": "WEST POINT"
  },
  {
-  "description": "4256 AIR FRYER (8L)",
+  "description": "4256 AIR FRYER (8 LITER)",
   "qty_inhand": 3,
   "cost": 25400,
   "rate": 30500,
@@ -1356,7 +1340,7 @@
  },
  {
   "description": "443 BLENDER CHOPER (3*1)",
-  "qty_inhand": 5,
+  "qty_inhand": 3,
   "cost": 11700,
   "rate": 14080,
   "code": "WP-443",
@@ -1396,7 +1380,7 @@
  },
  {
   "description": "4500 ELECTRIC OVEN (45L APPROXIMATE)",
-  "qty_inhand": 1,
+  "qty_inhand": 0,
   "cost": 30200,
   "rate": 36280,
   "code": "WP-4500",
@@ -1436,7 +1420,7 @@
  },
  {
   "description": "4636 DOUGH MIXER (7 LITER)",
-  "qty_inhand": 1,
+  "qty_inhand": 0,
   "cost": 31100,
   "rate": 37340,
   "code": "WP-4636",
@@ -1466,7 +1450,7 @@
  },
  {
   "description": "4800 ELECTRIC OVEN (55L APPROXIMATE)",
-  "qty_inhand": 5,
+  "qty_inhand": 4,
   "cost": 31300,
   "rate": 37590,
   "code": "WP-4800",
@@ -1495,16 +1479,6 @@
   "fld_brand": "WEST POINT"
  },
  {
-  "description": "494 MEAT MINDER & VEG CUTER",
-  "qty_inhand": 1,
-  "cost": 11700,
-  "rate": 14060,
-  "code": "WP-494",
-  "description": "WEST POINT (KARACHI)",
-  "catagory": "CHOPPER",
-  "fld_brand": "WEST POINT"
- },
- {
   "description": "495 MEAT MINDER & VEG CUTER",
   "qty_inhand": 0,
   "cost": 13000,
@@ -1526,7 +1500,7 @@
  },
  {
   "description": "497 MEAT MINDER & VEG CUTER",
-  "qty_inhand": 8,
+  "qty_inhand": 7,
   "cost": 13200,
   "rate": 15900,
   "code": "WP-497",
@@ -1566,7 +1540,7 @@
  },
  {
   "description": "502 MEAT MINDER & VEG CUTER",
-  "qty_inhand": 4,
+  "qty_inhand": 2,
   "cost": 14150,
   "rate": 17100,
   "code": "WP-502",
@@ -1576,7 +1550,7 @@
  },
  {
   "description": "503 MEAT MINDER & VEG CUTER",
-  "qty_inhand": 4,
+  "qty_inhand": 2,
   "cost": 14150,
   "rate": 16890,
   "code": "WP-503",
@@ -1740,7 +1714,7 @@
  },
  {
   "description": "5255 AIR FRYER (6 LITER)",
-  "qty_inhand": 12,
+  "qty_inhand": 11,
   "cost": 22800,
   "rate": 27380,
   "code": "WP-5255",
@@ -1820,7 +1794,7 @@
  },
  {
   "description": "546 CITRUS",
-  "qty_inhand": 12,
+  "qty_inhand": 11,
   "cost": 5350,
   "rate": 6880,
   "code": "WP-546",
@@ -1869,7 +1843,7 @@
  },
  {
   "description": "553 CITRUS",
-  "qty_inhand": 7,
+  "qty_inhand": 6,
   "cost": 9700,
   "rate": 11640,
   "code": "WP-553",
@@ -1879,7 +1853,7 @@
  },
  {
   "description": "554 CITRUS",
-  "qty_inhand": 4,
+  "qty_inhand": 3,
   "cost": 9700,
   "rate": 11980,
   "code": "WP-554",
@@ -1937,7 +1911,7 @@
  },
  {
   "description": "6170 KATTLE",
-  "qty_inhand": 7,
+  "qty_inhand": 6,
   "cost": 6500,
   "rate": 9740,
   "code": "WF-6170",
@@ -1973,7 +1947,7 @@
  },
  {
   "description": "6174 KATTLE",
-  "qty_inhand": 15,
+  "qty_inhand": 12,
   "cost": 8100,
   "rate": 9740,
   "code": "WP-6174",
@@ -2027,7 +2001,7 @@
  },
  {
   "description": "6184 KATTLE",
-  "qty_inhand": 19,
+  "qty_inhand": 17,
   "cost": 8100,
   "rate": 9740,
   "code": "WP-6184",
@@ -2183,7 +2157,7 @@
  },
  {
   "description": "637 SANDWICH MAKER",
-  "qty_inhand": 4,
+  "qty_inhand": 3,
   "cost": 5550,
   "rate": 6940,
   "code": "WP-637",
@@ -2212,7 +2186,7 @@
  },
  {
   "description": "639 SANDWICH MAKER",
-  "qty_inhand": 6,
+  "qty_inhand": 4,
   "cost": 5750,
   "rate": 6940,
   "code": "WP-639",
@@ -2231,7 +2205,7 @@
  },
  {
   "description": "640 SANDWICH MAKER",
-  "qty_inhand": 7,
+  "qty_inhand": 6,
   "cost": 5550,
   "rate": 6940,
   "code": "WP-640",
@@ -2240,7 +2214,7 @@
  },
  {
   "description": "6514 ROTI MAKER (BIG)",
-  "qty_inhand": 7,
+  "qty_inhand": 5,
   "cost": 13150,
   "rate": 15820,
   "code": "WP-6514",
@@ -2413,7 +2387,7 @@
  },
  {
   "description": "691 SANDWICH MAKER",
-  "qty_inhand": 10,
+  "qty_inhand": 9,
   "cost": 5550,
   "rate": 6940,
   "code": "WP-691",
@@ -2432,7 +2406,7 @@
  },
  {
   "description": "692 SANDWICH MAKER",
-  "qty_inhand": 7,
+  "qty_inhand": 6,
   "cost": 5550,
   "rate": 6940,
   "code": "WP-692",
@@ -2441,7 +2415,7 @@
  },
  {
   "description": "693 SANDWICH MAKER",
-  "qty_inhand": 9,
+  "qty_inhand": 8,
   "cost": 5550,
   "rate": 6940,
   "code": "WP-693",
@@ -2450,7 +2424,7 @@
  },
  {
   "description": "694 SANDWICH MAKER",
-  "qty_inhand": 9,
+  "qty_inhand": 8,
   "cost": 5550,
   "rate": 6940,
   "code": "WF-694",
@@ -2539,7 +2513,7 @@
  },
  {
   "description": "718 BLENDER (SINGEL)",
-  "qty_inhand": 19,
+  "qty_inhand": 17,
   "cost": 5650,
   "rate": 6810,
   "code": "WP-718",
@@ -2559,7 +2533,7 @@
  },
  {
   "description": "7201 JUICER (3*1)",
-  "qty_inhand": 25,
+  "qty_inhand": 23,
   "cost": 11650,
   "rate": 14000,
   "code": "WP-7201",
@@ -2609,7 +2583,7 @@
  },
  {
   "description": "7501 JUICER (3*1)",
-  "qty_inhand": 25,
+  "qty_inhand": 24,
   "cost": 11650,
   "rate": 14000,
   "code": "WP-7501",
@@ -2629,7 +2603,7 @@
  },
  {
   "description": "772 IRON",
-  "qty_inhand": 7,
+  "qty_inhand": 4,
   "cost": 5250,
   "rate": 6560,
   "code": "WP-772",
@@ -2639,7 +2613,7 @@
  },
  {
   "description": "773 IRON",
-  "qty_inhand": 11,
+  "qty_inhand": 8,
   "cost": 5250,
   "rate": 6560,
   "code": "WP-773",
@@ -2669,7 +2643,7 @@
  },
  {
   "description": "78B IRON",
-  "qty_inhand": 36,
+  "qty_inhand": 27,
   "cost": 6075,
   "rate": 7300,
   "code": "WP-78B",
@@ -2678,7 +2652,7 @@
  },
  {
   "description": "7901 JUICER (3*1)",
-  "qty_inhand": 27,
+  "qty_inhand": 23,
   "cost": 11650,
   "rate": 14000,
   "code": "WP-7901",
@@ -2688,7 +2662,7 @@
  },
  {
   "description": "80B IRON",
-  "qty_inhand": 39,
+  "qty_inhand": 29,
   "cost": 6075,
   "rate": 7300,
   "code": "WP-80B",
@@ -2697,7 +2671,7 @@
  },
  {
   "description": "81B IRON",
-  "qty_inhand": 29,
+  "qty_inhand": 28,
   "cost": 6075,
   "rate": 7300,
   "code": "WP-81B",
@@ -2809,7 +2783,7 @@
  },
  {
   "description": "8290 KATTLE",
-  "qty_inhand": 5,
+  "qty_inhand": 4,
   "cost": 4200,
   "rate": 8090,
   "code": "WP-8290",
@@ -2882,7 +2856,7 @@
  },
  {
   "description": "85B IRON",
-  "qty_inhand": 12,
+  "qty_inhand": 11,
   "cost": 5850,
   "rate": 7300,
   "code": "WP-85B",
@@ -2922,7 +2896,7 @@
  },
  {
   "description": "8813 JUICER (3*1)",
-  "qty_inhand": 32,
+  "qty_inhand": 7,
   "cost": 12250,
   "rate": 14730,
   "code": "WP-8813",
@@ -2932,7 +2906,7 @@
  },
  {
   "description": "8814 JUICER (4*1)",
-  "qty_inhand": 30,
+  "qty_inhand": 28,
   "cost": 13600,
   "rate": 16360,
   "code": "WP-8814",
@@ -2990,7 +2964,7 @@
  },
  {
   "description": "8823 JUICER (3*1)",
-  "qty_inhand": 7,
+  "qty_inhand": 3,
   "cost": 12250,
   "rate": 14730,
   "code": "WP-8823",
@@ -3000,7 +2974,7 @@
  },
  {
   "description": "8824 JUICER (4*1)",
-  "qty_inhand": 8,
+  "qty_inhand": 5,
   "cost": 13600,
   "rate": 16360,
   "code": "WF-8824",
@@ -3038,7 +3012,7 @@
  },
  {
   "description": "90B IRON",
-  "qty_inhand": 18,
+  "qty_inhand": 12,
   "cost": 6075,
   "rate": 7300,
   "code": "WP-90B",
@@ -3056,7 +3030,7 @@
  },
  {
   "description": "9214 HAND BEATER",
-  "qty_inhand": 15,
+  "qty_inhand": 12,
   "cost": 6950,
   "rate": 8380,
   "code": "WP-9214",
@@ -3065,7 +3039,7 @@
  },
  {
   "description": "9215 HAND BEATER",
-  "qty_inhand": 29,
+  "qty_inhand": 28,
   "cost": 7600,
   "rate": 9210,
   "code": "WP-9215",
@@ -3093,7 +3067,7 @@
  },
  {
   "description": "9225 COFFY GRINDER",
-  "qty_inhand": 13,
+  "qty_inhand": 12,
   "cost": 9250,
   "rate": 11130,
   "code": "WP-9225",
@@ -3110,7 +3084,7 @@
   "fld_brand": "WEST POINT"
  },
  {
-  "description": "9228 COFFEE GRINDER (DRY\/WET)",
+  "description": "9228 COFFEE GRINDER (DRY/WET)",
   "qty_inhand": 6,
   "cost": 8400,
   "rate": 10100,
@@ -3130,7 +3104,7 @@
  },
  {
   "description": "9291 BLENDER (SINGEL)",
-  "qty_inhand": 14,
+  "qty_inhand": 12,
   "cost": 5650,
   "rate": 6810,
   "code": "WP-9291",
@@ -3140,7 +3114,7 @@
  },
  {
   "description": "9301 HAND BEATER",
-  "qty_inhand": 17,
+  "qty_inhand": 16,
   "cost": 6050,
   "rate": 7280,
   "code": "WP-9301",
@@ -3178,7 +3152,7 @@
  },
  {
   "description": "9501 HAND BEATER",
-  "qty_inhand": 6,
+  "qty_inhand": 4,
   "cost": 4800,
   "rate": 7280,
   "code": "WP-9501",
@@ -3187,7 +3161,7 @@
  },
  {
   "description": "960 DRUM TYP",
-  "qty_inhand": 8,
+  "qty_inhand": 7,
   "cost": 26500,
   "rate": 31840,
   "code": "WP-960",
@@ -3197,7 +3171,7 @@
  },
  {
   "description": "9601 HAND BEATER",
-  "qty_inhand": 10,
+  "qty_inhand": 8,
   "cost": 5650,
   "rate": 7280,
   "code": "WP-9601",
@@ -3215,7 +3189,7 @@
  },
  {
   "description": "9714 HAND BEATER",
-  "qty_inhand": 19,
+  "qty_inhand": 17,
   "cost": 6950,
   "rate": 8380,
   "code": "WP-9714",
@@ -3319,7 +3293,7 @@
  },
  {
   "description": "9814 HAND BEATER",
-  "qty_inhand": 19,
+  "qty_inhand": 17,
   "cost": 6900,
   "rate": 8380,
   "code": "WP-9814",
@@ -3346,7 +3320,7 @@
  },
  {
   "description": "9826 HAND MIXER WITH BOWL",
-  "qty_inhand": 2,
+  "qty_inhand": 1,
   "cost": 10000,
   "rate": 12050,
   "code": "WP-9826",
@@ -3365,7 +3339,7 @@
  },
  {
   "description": "98B IRON",
-  "qty_inhand": 10,
+  "qty_inhand": 8,
   "cost": 6075,
   "rate": 7300,
   "code": "WP-98B",
@@ -3433,7 +3407,7 @@
  },
  {
   "description": "9936 HAND BEATER",
-  "qty_inhand": 9,
+  "qty_inhand": 7,
   "cost": 8600,
   "rate": 10350,
   "code": "WP-9936",
@@ -3464,7 +3438,7 @@
  },
  {
   "description": "BALTI NO.2 (16G)",
-  "qty_inhand": -815,
+  "qty_inhand": -819,
   "cost": 790,
   "rate": 1020,
   "catagory": "BALTI"
@@ -3478,35 +3452,35 @@
  },
  {
   "description": "BALTI NO.2.5 (16G)",
-  "qty_inhand": -1391,
+  "qty_inhand": -1394,
   "cost": 645,
   "rate": 1075,
   "catagory": "BALTI"
  },
  {
   "description": "BALTI NO.3 (16G)",
-  "qty_inhand": -3104,
+  "qty_inhand": -3113,
   "cost": 705,
   "rate": 1160,
   "catagory": "BALTI"
  },
  {
   "description": "BALTI NO.3 OP",
-  "qty_inhand": -51,
+  "qty_inhand": -58,
   "cost": 1350,
   "rate": 1635,
   "catagory": "BALTI"
  },
  {
   "description": "BALTI NO.4 (16G)",
-  "qty_inhand": -1073,
+  "qty_inhand": -1081,
   "cost": 1105,
   "rate": 1625,
   "catagory": "BALTI"
  },
  {
   "description": "BALTI NO.4 OP",
-  "qty_inhand": -111,
+  "qty_inhand": -119,
   "cost": 1530,
   "rate": 1850,
   "catagory": "BALTI"
@@ -3527,14 +3501,14 @@
  },
  {
   "description": "BARNI NO.1",
-  "qty_inhand": 44,
+  "qty_inhand": 42,
   "cost": 639.2,
   "rate": 770,
   "catagory": "BARNI"
  },
  {
   "description": "BARNI NO.2",
-  "qty_inhand": -49,
+  "qty_inhand": -51,
   "cost": 705,
   "rate": 850,
   "description": "KAAM STEEL (GRW)",
@@ -3549,7 +3523,7 @@
  },
  {
   "description": "BARNI NO.4",
-  "qty_inhand": -19,
+  "qty_inhand": -21,
   "cost": 987,
   "rate": 1200,
   "description": "KAAM STEEL (GRW)",
@@ -3610,14 +3584,14 @@
  },
  {
   "description": "BATH SET BOX (EMPTY)",
-  "qty_inhand": 1262,
+  "qty_inhand": 1216,
   "cost": 221,
   "rate": 300,
   "catagory": "BATH SET"
  },
  {
   "description": "BATH SET GRACE BEAUTY (WITH BOX)",
-  "qty_inhand": -574,
+  "qty_inhand": -583,
   "cost": 1839.4,
   "rate": 2330,
   "description": "GRACE WARE (RWP)",
@@ -3626,7 +3600,7 @@
  },
  {
   "description": "BATH SET GRACE BEAUTY (WITHOUT BOX)",
-  "qty_inhand": 362,
+  "qty_inhand": 334,
   "cost": 1626.9,
   "rate": 2070,
   "description": "GRACE WARE (RWP)",
@@ -3653,7 +3627,7 @@
  },
  {
   "description": "BELLI SET (10P) (SK)",
-  "qty_inhand": -139,
+  "qty_inhand": -141,
   "cost": 7992.9,
   "rate": 10725,
   "description": "SK MATEL (GRW)",
@@ -3661,7 +3635,7 @@
  },
  {
   "description": "BESUN 10\" (16G)",
-  "qty_inhand": -163,
+  "qty_inhand": -169,
   "cost": 185,
   "rate": 265,
   "catagory": "BESUN"
@@ -3675,7 +3649,7 @@
  },
  {
   "description": "BESUN 12\" (16G)",
-  "qty_inhand": -1359,
+  "qty_inhand": -1375,
   "cost": 220,
   "rate": 310,
   "catagory": "BESUN"
@@ -3689,7 +3663,7 @@
  },
  {
   "description": "BESUN 14\" (16G)",
-  "qty_inhand": -2113,
+  "qty_inhand": -2122,
   "cost": 290,
   "rate": 405,
   "catagory": "BESUN"
@@ -3703,7 +3677,7 @@
  },
  {
   "description": "BESUN 16\" (16G)",
-  "qty_inhand": -940,
+  "qty_inhand": -943,
   "cost": 450,
   "rate": 560,
   "catagory": "BESUN"
@@ -3794,15 +3768,15 @@
   "catagory": "BESUN"
  },
  {
-  "description": "BLENDER 3*1 (SAMSUNG)",
+  "description": "BLENDER DOUBLE (SAMSUNG)",
+  "qty_inhand": 10,
   "cost": 2350,
   "rate": 2950,
-  "code": "80201500",
   "catagory": "BLENDER"
  },
  {
   "description": "BLENDER SINGEL (HAIER)",
-  "qty_inhand": 0,
+  "qty_inhand": 12,
   "cost": 2050,
   "rate": 2650,
   "catagory": "BLENDER",
@@ -3810,30 +3784,29 @@
  },
  {
   "description": "BLENDER SINGLE (NATIONAL & PANASONIC)",
-  "qty_inhand": 12,
+  "qty_inhand": 21,
   "cost": 1850,
   "rate": 2450,
-  "code": "80201499",
   "catagory": "BLENDER"
  },
  {
-  "description": "BOTLE DOT 1000ML",
-  "qty_inhand": 46,
+  "description": "BOTLE DOT (1000ML)",
+  "qty_inhand": 13,
   "cost": 730,
   "rate": 950,
   "description": "MANSORI TRADERS (KRI)",
   "catagory": "STEEL BOTLE"
  },
  {
-  "description": "BOTLE SPORTS 600ML",
-  "qty_inhand": 68,
+  "description": "BOTLE SPORTS (600ML)",
+  "qty_inhand": 29,
   "cost": 600,
   "rate": 750,
   "catagory": "STEEL BOTLE"
  },
  {
-  "description": "BOTLE SPORTS 750ML",
-  "qty_inhand": 62,
+  "description": "BOTLE SPORTS (750ML)",
+  "qty_inhand": 44,
   "cost": 630,
   "rate": 850,
   "catagory": "STEEL BOTLE"
@@ -3847,14 +3820,14 @@
  },
  {
   "description": "BOWL 6\" (WAZNI)",
-  "qty_inhand": -760,
+  "qty_inhand": -763,
   "cost": 850,
   "rate": 1200,
   "catagory": "BOWL"
  },
  {
   "description": "BOWL 7\" (A)",
-  "qty_inhand": -175,
+  "qty_inhand": -176,
   "cost": 550,
   "rate": 808,
   "catagory": "BOWL"
@@ -3964,7 +3937,7 @@
  },
  {
   "description": "CHANANA NO.2 (16G)",
-  "qty_inhand": -754,
+  "qty_inhand": -756,
   "cost": 400,
   "rate": 680,
   "description": "AL MADINA CHANANA (GRW)",
@@ -3972,7 +3945,7 @@
  },
  {
   "description": "CHANANA NO.3 (16G)",
-  "qty_inhand": -663,
+  "qty_inhand": -665,
   "cost": 450,
   "rate": 730,
   "description": "AL MADINA CHANANA (GRW)",
@@ -3988,7 +3961,7 @@
  },
  {
   "description": "CHANANA NO.4 (16G)",
-  "qty_inhand": -2301,
+  "qty_inhand": -2313,
   "cost": 500,
   "rate": 780,
   "description": "AL MADINA CHANANA (GRW)",
@@ -4004,56 +3977,56 @@
  },
  {
   "description": "CHANANA PH N0.26 (SHERAZ)",
-  "qty_inhand": 7,
-  "cost": 870,
+  "qty_inhand": 41,
+  "cost": 850,
   "rate": 1055,
   "description": "SHERAZ STEEL (GRW)",
   "catagory": "CHANANA"
  },
  {
   "description": "CHANANA PH N0.30 (SHERAZ)",
-  "qty_inhand": 19,
-  "cost": 1040,
+  "qty_inhand": 51,
+  "cost": 1000,
   "rate": 1235,
   "description": "SHERAZ STEEL (GRW)",
   "catagory": "CHANANA"
  },
  {
   "description": "CHANANA PH N0.34 (SHERAZ)",
-  "qty_inhand": 79,
-  "cost": 1140,
+  "qty_inhand": 99,
+  "cost": 1100,
   "rate": 1355,
   "description": "SHERAZ STEEL (GRW)",
   "catagory": "CHANANA"
  },
  {
   "description": "CHANANA PH N0.38 (SHERAZ)",
-  "qty_inhand": 117,
-  "cost": 1440,
+  "qty_inhand": 149,
+  "cost": 1400,
   "rate": 1705,
   "description": "SHERAZ STEEL (GRW)",
   "catagory": "CHANANA"
  },
  {
   "description": "CHANANA SILVER NO.28.5 (SHERAZ)",
-  "qty_inhand": -137,
-  "cost": 680,
+  "qty_inhand": -87,
+  "cost": 650,
   "rate": 815,
   "description": "SHERAZ STEEL (GRW)",
   "catagory": "CHANANA"
  },
  {
   "description": "CHANANA SILVER NO.31.5 (SHERAZ)",
-  "qty_inhand": -197,
-  "cost": 780,
+  "qty_inhand": -147,
+  "cost": 750,
   "rate": 935,
   "description": "SHERAZ STEEL (GRW)",
   "catagory": "CHANANA"
  },
  {
   "description": "CHANANA SILVER NO.34.5 (SHERAZ)",
-  "qty_inhand": -3,
-  "cost": 880,
+  "qty_inhand": 37,
+  "cost": 850,
   "rate": 1050,
   "description": "SHERAZ STEEL (GRW)",
   "catagory": "CHANANA"
@@ -4167,22 +4140,22 @@
  },
  {
   "description": "CHATI DOR NO.1 JUDGE",
-  "qty_inhand": -957,
-  "cost": 770,
+  "qty_inhand": -907,
+  "cost": 850,
   "rate": 1025,
   "catagory": "CHATI"
  },
  {
   "description": "CHATI DOR NO.2 JUDGE",
-  "qty_inhand": -1526,
-  "cost": 950,
-  "rate": 1190,
+  "qty_inhand": -1484,
+  "cost": 1000,
+  "rate": 1200,
   "catagory": "CHATI"
  },
  {
   "description": "CHATI DOR NO.3 JUDGE",
-  "qty_inhand": -1384,
-  "cost": 1050,
+  "qty_inhand": -1290,
+  "cost": 1100,
   "rate": 1315,
   "catagory": "CHATI"
  },
@@ -4236,7 +4209,7 @@
  },
  {
   "description": "CHATI NO.3 (16G) GOGI",
-  "qty_inhand": 21,
+  "qty_inhand": 18,
   "cost": 3700,
   "rate": 4435,
   "description": "TARIQ SB GOGI STEEL (GRW)",
@@ -4259,17 +4232,24 @@
   "catagory": "MANUAL"
  },
  {
-  "description": "CHIMTA  (L)",
-  "qty_inhand": -1237,
-  "cost": 100,
-  "rate": 150,
+  "description": "CHIMTA  PEARL (01) (07)",
+  "qty_inhand": -1630,
+  "cost": 105,
+  "rate": 140,
   "catagory": "CHIMTA"
  },
  {
   "description": "CHIMTA (CHINA)",
-  "qty_inhand": -918,
-  "cost": 80,
+  "qty_inhand": -680,
+  "cost": 75,
   "rate": 110,
+  "catagory": "CHIMTA"
+ },
+ {
+  "description": "CHIMTA PEARL (111) (668)",
+  "qty_inhand": -477,
+  "cost": 120,
+  "rate": 160,
   "catagory": "CHIMTA"
  },
  {
@@ -4281,8 +4261,8 @@
   "fld_brand": "SONEX"
  },
  {
-  "description": "COOKER 11 LTR (KARAHI G\/L) (WESTPOINT)",
-  "qty_inhand": -42,
+  "description": "COOKER 11 LTR (KARAHI G/L) (WESTPOINT)",
+  "qty_inhand": -44,
   "cost": 5350,
   "rate": 6325,
   "description": "AR COOKER IRFAN SB (GRW)",
@@ -4291,7 +4271,7 @@
  },
  {
   "description": "COOKER 11 LTR (KARHAI MIRROR)(SK)",
-  "qty_inhand": 11,
+  "qty_inhand": 9,
   "cost": 5000,
   "rate": 6475,
   "description": "SK MATEL (GRW)",
@@ -4333,7 +4313,7 @@
  },
  {
   "description": "COOKER 11 LTR (WESTPOINT)",
-  "qty_inhand": -500,
+  "qty_inhand": -501,
   "cost": 4200,
   "rate": 4975,
   "description": "AR COOKER IRFAN SB (GRW)",
@@ -4401,7 +4381,7 @@
  },
  {
   "description": "COOKER 16 LTR (AR) COMMERCIAL",
-  "qty_inhand": -8,
+  "qty_inhand": -9,
   "cost": 5700,
   "rate": 8050,
   "description": "AR COOKER IRFAN SB (GRW)",
@@ -4419,7 +4399,7 @@
  },
  {
   "description": "COOKER 22 LTR (AR) COMMERCIAL",
-  "qty_inhand": -72,
+  "qty_inhand": -73,
   "cost": 6100,
   "rate": 8525,
   "description": "AR COOKER IRFAN SB (GRW)",
@@ -4472,8 +4452,8 @@
   "fld_brand": "SK MATEL"
  },
  {
-  "description": "COOKER 7 LTR (KARAHI G\/L) (WESTPOINT)",
-  "qty_inhand": -56,
+  "description": "COOKER 7 LTR (KARAHI G/L) (WESTPOINT)",
+  "qty_inhand": -58,
   "cost": 4450,
   "rate": 6125,
   "description": "AR COOKER IRFAN SB (GRW)",
@@ -4489,7 +4469,7 @@
  },
  {
   "description": "COOKER 7 LTR (MJ)",
-  "qty_inhand": -868,
+  "qty_inhand": -870,
   "cost": 3150,
   "rate": 3800,
   "description": "MAJESTIC COOKER SHEIKH SHOKIT SB (GRW)",
@@ -4498,7 +4478,7 @@
  },
  {
   "description": "COOKER 7 LTR (WESTPOINT)",
-  "qty_inhand": -563,
+  "qty_inhand": -564,
   "cost": 4000,
   "rate": 4775,
   "description": "AR COOKER IRFAN SB (GRW)",
@@ -4507,7 +4487,7 @@
  },
  {
   "description": "COOKER 7 LTR (WOODCO) (WESTPOINT)",
-  "qty_inhand": -324,
+  "qty_inhand": -327,
   "cost": 4050,
   "rate": 5650,
   "description": "AR COOKER IRFAN SB (GRW)",
@@ -4556,8 +4536,8 @@
   "catagory": "COOKER"
  },
  {
-  "description": "COOKER 9 LTR (KARAHI G\/L) (WESTPOINT)",
-  "qty_inhand": -37,
+  "description": "COOKER 9 LTR (KARAHI G/L) (WESTPOINT)",
+  "qty_inhand": -48,
   "cost": 5250,
   "rate": 6225,
   "description": "AR COOKER IRFAN SB (GRW)",
@@ -4582,7 +4562,7 @@
  },
  {
   "description": "COOKER 9 LTR (MJ)",
-  "qty_inhand": -2094,
+  "qty_inhand": -2099,
   "cost": 3200,
   "rate": 3900,
   "catagory": "COOKER"
@@ -4596,7 +4576,7 @@
  },
  {
   "description": "COOKER 9 LTR (SK) OCEAN NEW",
-  "qty_inhand": -53,
+  "qty_inhand": -54,
   "cost": 5873.5,
   "rate": 8020,
   "catagory": "COOKER"
@@ -4611,7 +4591,7 @@
  },
  {
   "description": "COOKER 9 LTR (WESTPOINT)",
-  "qty_inhand": -1359,
+  "qty_inhand": -1363,
   "cost": 4100,
   "rate": 4875,
   "description": "AR COOKER IRFAN SB (GRW)",
@@ -4620,7 +4600,7 @@
  },
  {
   "description": "COOKER 9 LTR (WOODCO) (WESTPOINT)",
-  "qty_inhand": -1229,
+  "qty_inhand": -1236,
   "cost": 4850,
   "rate": 5750,
   "description": "AR COOKER IRFAN SB (GRW)",
@@ -4730,7 +4710,7 @@
  },
  {
   "description": "COOKING SET (NS) HERITAGE (JUMBO)",
-  "qty_inhand": 3,
+  "qty_inhand": -2,
   "cost": 10300,
   "rate": 12875,
   "catagory": "COOKING SET"
@@ -4753,7 +4733,7 @@
  },
  {
   "description": "COOKING SET (NS) TULIP (SK)",
-  "qty_inhand": -371,
+  "qty_inhand": -373,
   "cost": 10900,
   "rate": 18200,
   "description": "SK MATEL (GRW)",
@@ -4771,7 +4751,7 @@
  },
  {
   "description": "COOKING SET (NS) WINGCHING (15P)",
-  "qty_inhand": -32,
+  "qty_inhand": -36,
   "cost": 8800,
   "rate": 11400,
   "description": "SAWAN MATEL FINE NS (GRW)",
@@ -4779,7 +4759,7 @@
  },
  {
   "description": "COOKING SET FINE (MF) (AL)",
-  "qty_inhand": -65,
+  "qty_inhand": -67,
   "cost": 8600,
   "rate": 11150,
   "catagory": "COOKING SET"
@@ -4804,7 +4784,7 @@
  },
  {
   "description": "COOLER (GRACE) (132)",
-  "qty_inhand": 155,
+  "qty_inhand": 157,
   "cost": 801,
   "rate": 1005,
   "description": "GRACE WARE (RWP)",
@@ -4813,7 +4793,7 @@
  },
  {
   "description": "COOLER (GRACE) (142)",
-  "qty_inhand": 189,
+  "qty_inhand": 192,
   "cost": 1017,
   "rate": 1280,
   "description": "GRACE WARE (RWP)",
@@ -4831,7 +4811,7 @@
  },
  {
   "description": "COOLER (GRACE) (164)",
-  "qty_inhand": 271,
+  "qty_inhand": 269,
   "cost": 1371.6,
   "rate": 1730,
   "description": "GRACE WARE (RWP)",
@@ -4849,7 +4829,7 @@
  },
  {
   "description": "COOLER (GRACE) (186)",
-  "qty_inhand": 268,
+  "qty_inhand": 269,
   "cost": 1920.6,
   "rate": 2425,
   "description": "GRACE WARE (RWP)",
@@ -4858,7 +4838,7 @@
  },
  {
   "description": "COOLER (GRACE) (200)",
-  "qty_inhand": 378,
+  "qty_inhand": 377,
   "cost": 2110.5,
   "rate": 2670,
   "description": "GRACE WARE (RWP)",
@@ -4874,23 +4854,23 @@
   "catagory": "COOLER"
  },
  {
-  "description": "COOLER (GRACE) W\/M (150)",
-  "qty_inhand": 172,
+  "description": "COOLER (GRACE) W/M (150)",
+  "qty_inhand": 171,
   "cost": 1344.6,
   "rate": 1695,
   "description": "GRACE WARE (RWP)",
   "catagory": "COOLER"
  },
  {
-  "description": "COOLER (GRACE) W\/M (160)",
-  "qty_inhand": -81,
+  "description": "COOLER (GRACE) W/M (160)",
+  "qty_inhand": -82,
   "cost": 1605.6,
   "rate": 2025,
   "description": "GRACE WARE (RWP)",
   "catagory": "COOLER"
  },
  {
-  "description": "COOLER (GRACE) W\/M (170)",
+  "description": "COOLER (GRACE) W/M (170)",
   "qty_inhand": -50,
   "cost": 1791,
   "rate": 2260,
@@ -4898,15 +4878,15 @@
   "catagory": "COOLER"
  },
  {
-  "description": "COOLER (GRACE) W\/M (180)",
-  "qty_inhand": 9,
+  "description": "COOLER (GRACE) W/M (180)",
+  "qty_inhand": 8,
   "cost": 1917,
   "rate": 2420,
   "description": "GRACE WARE (RWP)",
   "catagory": "COOLER"
  },
  {
-  "description": "COOLER (GRACE) W\/M (190)",
+  "description": "COOLER (GRACE) W/M (190)",
   "qty_inhand": -36,
   "cost": 2244.6,
   "rate": 2825,
@@ -4914,15 +4894,15 @@
   "catagory": "COOLER"
  },
  {
-  "description": "COOLER (GRACE) W\/M (210)",
-  "qty_inhand": 1,
+  "description": "COOLER (GRACE) W/M (210)",
+  "qty_inhand": 2,
   "cost": 2511,
   "rate": 3170,
   "description": "GRACE WARE (RWP)",
   "catagory": "COOLER"
  },
  {
-  "description": "COOLER (GRACE) W\/M (220) (F-H)",
+  "description": "COOLER (GRACE) W/M (220) (F-H)",
   "qty_inhand": 13,
   "cost": 2694.6,
   "rate": 3395,
@@ -4930,7 +4910,7 @@
   "catagory": "COOLER"
  },
  {
-  "description": "COOLER (GRACE) W\/M (250)",
+  "description": "COOLER (GRACE) W/M (250)",
   "qty_inhand": -13,
   "cost": 3645,
   "rate": 4590,
@@ -4938,7 +4918,7 @@
   "catagory": "COOLER"
  },
  {
-  "description": "COOLER (GRACE) W\/M (300)",
+  "description": "COOLER (GRACE) W/M (300)",
   "qty_inhand": 87,
   "cost": 3915,
   "rate": 4915,
@@ -4946,7 +4926,7 @@
   "catagory": "COOLER"
  },
  {
-  "description": "COOLER (GRACE) W\/M (400)",
+  "description": "COOLER (GRACE) W/M (400)",
   "qty_inhand": 17,
   "cost": 6975,
   "rate": 8720,
@@ -4991,7 +4971,7 @@
  },
  {
   "description": "COOLER (MJ) BEST (350)",
-  "qty_inhand": 8,
+  "qty_inhand": 10,
   "cost": 535,
   "rate": 890,
   "description": "MAJESTIC COOLER (KRI)",
@@ -5007,7 +4987,7 @@
  },
  {
   "description": "COOLER (MJ) BEST (550)",
-  "qty_inhand": 0,
+  "qty_inhand": -24,
   "cost": 1231.94,
   "rate": 1430,
   "description": "MAJESTIC COOLER (KRI)",
@@ -5015,7 +4995,7 @@
  },
  {
   "description": "COOLER (MJ) BEST (750)",
-  "qty_inhand": -359,
+  "qty_inhand": -363,
   "cost": 1468.96,
   "rate": 1715,
   "description": "MAJESTIC COOLER (KRI)",
@@ -5031,7 +5011,7 @@
   "fld_brand": "MEJASTIC COOLER"
  },
  {
-  "description": "COOLER (MJ) EXCELLENT (2075) W\/M (F-H)",
+  "description": "COOLER (MJ) EXCELLENT (2075) W/M (F-H)",
   "qty_inhand": 7,
   "cost": 3350,
   "rate": 5600,
@@ -5048,8 +5028,8 @@
   "catagory": "COOLER"
  },
  {
-  "description": "COOLER (MJ) IDEAL (925) W\/M",
-  "qty_inhand": 120,
+  "description": "COOLER (MJ) IDEAL (925) W/M",
+  "qty_inhand": 119,
   "cost": 1750,
   "rate": 2910,
   "description": "MAJESTIC COOLER (KRI)",
@@ -5057,7 +5037,7 @@
   "fld_brand": "MEJASTIC COOLER"
  },
  {
-  "description": "COOLER (MJ) UNIQUE (110) W\/M",
+  "description": "COOLER (MJ) UNIQUE (110) W/M",
   "qty_inhand": 52,
   "cost": 980,
   "rate": 1590,
@@ -5067,7 +5047,7 @@
  },
  {
   "description": "COOLER AJWA (AT)",
-  "qty_inhand": 26,
+  "qty_inhand": 20,
   "cost": 870,
   "rate": 1050,
   "description": "KH NAVEED SB ROYAL (GRW)",
@@ -5076,7 +5056,7 @@
  },
  {
   "description": "COOLER GRACE FLOW (4L)",
-  "qty_inhand": 15,
+  "qty_inhand": 6,
   "cost": 1245.6,
   "rate": 1500,
   "description": "GRACE WARE (RWP)",
@@ -5107,14 +5087,15 @@
   "description": "COOLER MR COOL (SMALL) (MATKA)",
   "qty_inhand": -84,
   "cost": 575,
-  "rate": 745,
+  "rate": 775,
+  "description": "LIVON PLASTIC (GRW)",
   "catagory": "COOLER"
  },
  {
   "description": "COOLER MR COOL NO.15 (MATKA)",
   "qty_inhand": 58,
   "cost": 1100,
-  "rate": 1425,
+  "rate": 1475,
   "description": "LIVON PLASTIC (GRW)",
   "catagory": "COOLER"
  },
@@ -5122,15 +5103,15 @@
   "description": "COOLER NO.13 KING",
   "qty_inhand": -272,
   "cost": 1375,
-  "rate": 1660,
+  "rate": 1725,
   "description": "LIVON PLASTIC (GRW)",
   "catagory": "COOLER"
  },
  {
   "description": "COOLER NO.15 WINNER",
-  "qty_inhand": -19,
+  "qty_inhand": -21,
   "cost": 1500,
-  "rate": 1885,
+  "rate": 2000,
   "description": "LIVON PLASTIC (GRW)",
   "catagory": "COOLER"
  },
@@ -5143,14 +5124,14 @@
  },
  {
   "description": "COOLER STEEL (15L)",
-  "qty_inhand": -18,
+  "qty_inhand": -20,
   "cost": 4400,
   "rate": 5425,
   "catagory": "COOLER"
  },
  {
   "description": "COOLER STEEL (25L)",
-  "qty_inhand": -32,
+  "qty_inhand": -35,
   "cost": 5200,
   "rate": 6500,
   "catagory": "COOLER"
@@ -5164,15 +5145,15 @@
  },
  {
   "description": "CUTLARE SET (6P-14G) (CHORIS & FLOWER)",
-  "qty_inhand": -44,
-  "cost": 1850,
-  "rate": 2325,
+  "qty_inhand": 22,
+  "cost": 1847,
+  "rate": 2300,
   "catagory": "CUTLEARY"
  },
  {
   "description": "CUTLARE SET (6P-14G) (LAZER)",
-  "qty_inhand": -266,
-  "cost": 1600,
+  "qty_inhand": -282,
+  "cost": 1400,
   "rate": 2000,
   "catagory": "CUTLEARY"
  },
@@ -5185,13 +5166,13 @@
  },
  {
   "description": "CUTLARE SET (6P-16G)(STEEL+TAR STAND)",
-  "qty_inhand": -441,
+  "qty_inhand": -415,
   "cost": 980,
   "rate": 1200,
   "catagory": "CUTLEARY"
  },
  {
-  "description": "CUTLARE SET (8P-14G) (LAZER)",
+  "description": "CUTLARE SET (8P-14G) (LAZER+FLOWER)",
   "qty_inhand": -114,
   "cost": 2025,
   "rate": 2600,
@@ -5228,35 +5209,35 @@
  },
  {
   "description": "DABRA 18\" (16G)",
-  "qty_inhand": -119,
+  "qty_inhand": 45,
   "cost": 530,
   "rate": 690,
   "catagory": "DABRA"
  },
  {
   "description": "DABRA 20'' (16G)",
-  "qty_inhand": -239,
+  "qty_inhand": 55,
   "cost": 630,
   "rate": 815,
   "catagory": "DABRA"
  },
  {
   "description": "DABRA 20'' (PRIME)",
-  "qty_inhand": -264,
+  "qty_inhand": 30,
   "cost": 800,
   "rate": 1040,
   "catagory": "DABRA"
  },
  {
   "description": "DABRA 22'' (16G)",
-  "qty_inhand": -243,
+  "qty_inhand": 5,
   "cost": 750,
   "rate": 965,
   "catagory": "DABRA"
  },
  {
   "description": "DABRA 22'' (PRIME)",
-  "qty_inhand": -76,
+  "qty_inhand": 60,
   "cost": 950,
   "rate": 1225,
   "catagory": "DABRA"
@@ -5277,7 +5258,7 @@
  },
  {
   "description": "DABRA TOL (14G)",
-  "qty_inhand": -179,
+  "qty_inhand": 95,
   "cost": 740,
   "rate": 940,
   "catagory": "DABRA"
@@ -5327,14 +5308,14 @@
  },
  {
   "description": "DINER SET BAHAAR (8P)",
-  "qty_inhand": -13,
+  "qty_inhand": -14,
   "cost": 9000,
   "rate": 12000,
   "catagory": "DINER SET"
  },
  {
   "description": "DINER SET BAHARAIN (8P)",
-  "qty_inhand": 6,
+  "qty_inhand": 5,
   "cost": 9500,
   "rate": 13000,
   "catagory": "DINER SET"
@@ -5355,8 +5336,8 @@
  },
  {
   "description": "DINER SET BLESSED (8P)",
-  "qty_inhand": 15,
-  "cost": 10000,
+  "qty_inhand": 40,
+  "cost": 9600,
   "rate": 11950,
   "description": "BRIDEL DINNER SAEED SB (GRW)",
   "catagory": "DINER SET"
@@ -5401,15 +5382,15 @@
  },
  {
   "description": "DINER SET CARAMEL (8P)",
-  "qty_inhand": -7,
-  "cost": 13500,
+  "qty_inhand": 11,
+  "cost": 13300,
   "rate": 15900,
   "description": "SHAH JEE MELAMINE (RWP)",
   "catagory": "DINER SET"
  },
  {
   "description": "DINER SET CHOICE (8P)",
-  "qty_inhand": 13,
+  "qty_inhand": 7,
   "cost": 8800,
   "rate": 10500,
   "description": "BRIDAL DINNER RIAZ SB (GRW)",
@@ -5418,7 +5399,7 @@
  },
  {
   "description": "DINER SET CRAVE (8P)",
-  "qty_inhand": -97,
+  "qty_inhand": -105,
   "cost": 6300,
   "rate": 7900,
   "catagory": "DINER SET"
@@ -5434,7 +5415,7 @@
  },
  {
   "description": "DINER SET CUTEX (8P)",
-  "qty_inhand": 14,
+  "qty_inhand": 11,
   "cost": 14600,
   "rate": 17750,
   "description": "MEDORA DINNER (GRW)",
@@ -5452,7 +5433,7 @@
  },
  {
   "description": "DINER SET EXECUTIVE (8P)",
-  "qty_inhand": 15,
+  "qty_inhand": 9,
   "cost": 10800,
   "rate": 12900,
   "description": "MEDORA DINNER (GRW)",
@@ -5461,7 +5442,7 @@
  },
  {
   "description": "DINER SET GOLD LINE (8P)",
-  "qty_inhand": 17,
+  "qty_inhand": 14,
   "cost": 14200,
   "rate": 16800,
   "description": "MEDORA DINNER (GRW)",
@@ -5470,15 +5451,15 @@
  },
  {
   "description": "DINER SET GOLD VIEW (8P)",
-  "qty_inhand": 1,
-  "cost": 13200,
-  "rate": 15650,
+  "qty_inhand": 23,
+  "cost": 12800,
+  "rate": 15200,
   "description": "MEDORA DINNER (GRW)",
   "catagory": "DINER SET"
  },
  {
   "description": "DINER SET GRACE ARTIUM (8P)",
-  "qty_inhand": 1,
+  "qty_inhand": -3,
   "cost": 10710,
   "rate": 12300,
   "description": "GRACE WARE (RWP)",
@@ -5535,7 +5516,7 @@
   "catagory": "DINER SET"
  },
  {
-  "description": "DINER SET GRACE EVEREST (G\/L) (8P)",
+  "description": "DINER SET GRACE EVEREST (G/L) (8P)",
   "qty_inhand": 8,
   "cost": 14600,
   "rate": 15475,
@@ -5552,7 +5533,7 @@
  },
  {
   "description": "DINER SET GRACE HERITAGE (8P)",
-  "qty_inhand": 9,
+  "qty_inhand": 6,
   "cost": 15480,
   "rate": 18000,
   "description": "GRACE WARE (RWP)",
@@ -5578,7 +5559,7 @@
  },
  {
   "description": "DINER SET GRACE LIVON (8P)",
-  "qty_inhand": 14,
+  "qty_inhand": 13,
   "cost": 11520,
   "rate": 13050,
   "description": "GRACE WARE (RWP)",
@@ -5596,7 +5577,7 @@
  },
  {
   "description": "DINER SET GRACE LYNX (8P)",
-  "qty_inhand": 14,
+  "qty_inhand": 12,
   "cost": 14700,
   "rate": 17225,
   "description": "GRACE WARE (RWP)",
@@ -5632,7 +5613,7 @@
  },
  {
   "description": "DINER SET GRACE MODESTY (8P)",
-  "qty_inhand": 52,
+  "qty_inhand": 43,
   "cost": 11970,
   "rate": 13850,
   "description": "GRACE WARE (RWP)",
@@ -5648,7 +5629,7 @@
  },
  {
   "description": "DINER SET GRACE MY CHARM (8P)",
-  "qty_inhand": 15,
+  "qty_inhand": 13,
   "cost": 10620,
   "rate": 12050,
   "description": "GRACE WARE (RWP)",
@@ -5657,7 +5638,7 @@
  },
  {
   "description": "DINER SET GRACE NEORAH (8P)",
-  "qty_inhand": 7,
+  "qty_inhand": 6,
   "cost": 13320,
   "rate": 158000,
   "description": "GRACE WARE (RWP)",
@@ -5690,7 +5671,7 @@
  },
  {
   "description": "DINER SET GRACE PRESTIGE (8P)",
-  "qty_inhand": 7,
+  "qty_inhand": 5,
   "cost": 13275,
   "rate": 15500,
   "description": "GRACE WARE (RWP)",
@@ -5706,7 +5687,7 @@
  },
  {
   "description": "DINER SET GRACE REGAL (8P)",
-  "qty_inhand": 9,
+  "qty_inhand": 4,
   "cost": 15255,
   "rate": 17700,
   "description": "GRACE WARE (RWP)",
@@ -5747,7 +5728,7 @@
  },
  {
   "description": "DINER SET GRACE VISION (8P)",
-  "qty_inhand": 10,
+  "qty_inhand": 6,
   "cost": 16650,
   "rate": 19450,
   "description": "GRACE WARE (RWP)",
@@ -5772,7 +5753,7 @@
  },
  {
   "description": "DINER SET GRACIOUS AL-SAEED (8P)",
-  "qty_inhand": 19,
+  "qty_inhand": 17,
   "cost": 12000,
   "rate": 14400,
   "catagory": "DINER SET"
@@ -5786,9 +5767,9 @@
  },
  {
   "description": "DINER SET HI-TECH (8P)",
-  "qty_inhand": -408,
+  "qty_inhand": -380,
   "cost": 11500,
-  "rate": 14300,
+  "rate": 13700,
   "description": "MEDORA DINNER (GRW)",
   "catagory": "DINER SET",
   "fld_brand": "MEDORA MELAMINE"
@@ -5802,7 +5783,7 @@
  },
  {
   "description": "DINER SET LYRA GOLD (6P)",
-  "qty_inhand": -92,
+  "qty_inhand": -94,
   "cost": 6100,
   "rate": 8500,
   "catagory": "DINER SET"
@@ -5816,7 +5797,7 @@
  },
  {
   "description": "DINER SET MARJAN GOLD (8P)",
-  "qty_inhand": 29,
+  "qty_inhand": 17,
   "cost": 8700,
   "rate": 10800,
   "description": "BRIDEL DINNER SAEED SB (GRW)",
@@ -5849,7 +5830,7 @@
  },
  {
   "description": "DINER SET MILTON ELEGANT (8P)",
-  "qty_inhand": 3,
+  "qty_inhand": 2,
   "cost": 11400,
   "rate": 14750,
   "description": "MILTON DINNER (KRACHI)",
@@ -5857,15 +5838,8 @@
   "fld_brand": "MILTON DINNER"
  },
  {
-  "description": "DINER SET MILTON GEM (WHITE CLR + SOUP SET) (8P)",
-  "qty_inhand": 6,
-  "cost": 11800,
-  "rate": 13975,
-  "catagory": "DINER SET"
- },
- {
   "description": "DINER SET MILTON GLARIOUS (8P)",
-  "qty_inhand": 0,
+  "qty_inhand": -6,
   "cost": 11400,
   "rate": 15500,
   "description": "MILTON DINNER (KRACHI)",
@@ -5883,7 +5857,7 @@
  },
  {
   "description": "DINER SET MILTON IMPERIAL (8P)",
-  "qty_inhand": 10,
+  "qty_inhand": 6,
   "cost": 10650,
   "rate": 13875,
   "description": "MILTON DINNER (KRACHI)",
@@ -5910,7 +5884,7 @@
  },
  {
   "description": "DINER SET MILTON OPAL (8P)",
-  "qty_inhand": 13,
+  "qty_inhand": 11,
   "cost": 12350,
   "rate": 15500,
   "description": "MILTON DINNER (KRACHI)",
@@ -5919,21 +5893,21 @@
  },
  {
   "description": "DINER SET MILTON PRISM (8P)",
-  "qty_inhand": 0,
+  "qty_inhand": -2,
   "cost": 13015,
   "rate": 16500,
   "catagory": "DINER SET"
  },
  {
   "description": "DINER SET M-ONE (8P)",
-  "qty_inhand": -1,
+  "qty_inhand": -3,
   "cost": 7400,
   "rate": 8800,
   "catagory": "DINER SET"
  },
  {
   "description": "DINER SET NORIS (8P)",
-  "qty_inhand": -16,
+  "qty_inhand": -17,
   "cost": 10500,
   "rate": 14325,
   "description": "BRIDEL DINNER SAEED SB (GRW)",
@@ -5951,7 +5925,7 @@
  },
  {
   "description": "DINER SET ROUND (8P)",
-  "qty_inhand": 113,
+  "qty_inhand": 112,
   "cost": 6100,
   "rate": 7900,
   "description": "ROUND DINER ADIL SB (GRW)",
@@ -5960,7 +5934,7 @@
  },
  {
   "description": "DINER SET ROYALTY (8P)",
-  "qty_inhand": -34,
+  "qty_inhand": -36,
   "cost": 11500,
   "rate": 13700,
   "catagory": "DINER SET"
@@ -5974,7 +5948,7 @@
  },
  {
   "description": "DINER SET SAFFRON GLASSY (GL) (8P)",
-  "qty_inhand": 29,
+  "qty_inhand": 28,
   "cost": 10800,
   "rate": 13500,
   "catagory": "DINER SET"
@@ -5989,8 +5963,8 @@
  },
  {
   "description": "DINER SET SEVENTEEN (8P)",
-  "qty_inhand": -2,
-  "cost": 12900,
+  "qty_inhand": 22,
+  "cost": 12600,
   "rate": 15200,
   "catagory": "DINER SET"
  },
@@ -6012,7 +5986,7 @@
  },
  {
   "description": "DINER SET STUDIO (8P)",
-  "qty_inhand": -35,
+  "qty_inhand": -43,
   "cost": 9800,
   "rate": 11975,
   "description": "ADIL MELAMINE (GRW)",
@@ -6027,7 +6001,7 @@
  },
  {
   "description": "DINER SET VINERS (8P)",
-  "qty_inhand": 41,
+  "qty_inhand": 37,
   "cost": 5500,
   "rate": 7500,
   "description": "MUDASSAR SB MALAMINE (GRW)",
@@ -6042,14 +6016,14 @@
  },
  {
   "description": "DISH (16G)",
-  "qty_inhand": 32,
+  "qty_inhand": 26,
   "cost": 365,
   "rate": 500,
   "catagory": "DISH"
  },
  {
   "description": "DONGA 10'' DIAMOND (16G)",
-  "qty_inhand": -3104,
+  "qty_inhand": -3108,
   "cost": 650,
   "rate": 815,
   "catagory": "DONGA"
@@ -6076,7 +6050,7 @@
   "catagory": "DONGA"
  },
  {
-  "description": "DONGA ELITE G\/L (26CM)",
+  "description": "DONGA ELITE G/L (26CM)",
   "qty_inhand": -34,
   "cost": 1290,
   "rate": 1625,
@@ -6085,14 +6059,14 @@
   "fld_brand": "NO ENTRY"
  },
  {
-  "description": "DONGA ELITE G\/L (30CM)",
+  "description": "DONGA ELITE G/L (30CM)",
   "qty_inhand": -37,
   "cost": 1490,
   "rate": 1875,
   "catagory": "DONGA"
  },
  {
-  "description": "DONGA ELITE G\/L (34CM)",
+  "description": "DONGA ELITE G/L (34CM)",
   "qty_inhand": -30,
   "cost": 1890,
   "rate": 2375,
@@ -6143,7 +6117,7 @@
  },
  {
   "description": "DRUME NO.10KG (OP) (MT)",
-  "qty_inhand": -284,
+  "qty_inhand": -309,
   "cost": 1580,
   "rate": 1985,
   "description": "DIAMOND DRUMEY SHAN SB (GRW)",
@@ -6152,14 +6126,14 @@
  },
  {
   "description": "DRUME NO.10KG (OP) AL-REHMAT",
-  "qty_inhand": 131,
+  "qty_inhand": 123,
   "cost": 1800,
   "rate": 2315,
   "catagory": "DRUME"
  },
  {
   "description": "DRUME NO.10KG (OP) GOGI",
-  "qty_inhand": -209,
+  "qty_inhand": -218,
   "cost": 2300,
   "rate": 2785,
   "description": "NADEEM SB GOGI DRUMMY (GRW)",
@@ -6167,7 +6141,7 @@
  },
  {
   "description": "DRUME NO.12KG (0P) (MT)",
-  "qty_inhand": -10,
+  "qty_inhand": -13,
   "cost": 1950,
   "rate": 2435,
   "description": "DIAMOND DRUMEY SHAN SB (GRW)",
@@ -6184,7 +6158,7 @@
  },
  {
   "description": "DRUME NO.15KG (OP) (MT)",
-  "qty_inhand": -72,
+  "qty_inhand": -81,
   "cost": 2150,
   "rate": 2675,
   "description": "DIAMOND DRUMEY SHAN SB (GRW)",
@@ -6193,7 +6167,7 @@
  },
  {
   "description": "DRUME NO.15KG (OP) GOGI",
-  "qty_inhand": -16,
+  "qty_inhand": -17,
   "cost": 2944,
   "rate": 3565,
   "description": "NADEEM SB GOGI DRUMMY (GRW)",
@@ -6218,7 +6192,7 @@
  },
  {
   "description": "DRUME NO.5KG (OP) (MT)",
-  "qty_inhand": -87,
+  "qty_inhand": -100,
   "cost": 1280,
   "rate": 1785,
   "description": "DIAMOND DRUMEY SHAN SB (GRW)",
@@ -6227,7 +6201,7 @@
  },
  {
   "description": "DRUME NO.5KG (OP) AL-REHMAT",
-  "qty_inhand": 52,
+  "qty_inhand": 50,
   "cost": 1400,
   "rate": 1835,
   "catagory": "DRUME"
@@ -6242,14 +6216,14 @@
  },
  {
   "description": "DRUME NO.7KG (OP) AL-REHMAT",
-  "qty_inhand": 4,
+  "qty_inhand": -2,
   "cost": 1550,
   "rate": 1950,
   "catagory": "DRUME"
  },
  {
   "description": "DRUME NO.7KG (OP) GOGI",
-  "qty_inhand": -25,
+  "qty_inhand": -29,
   "cost": 1748,
   "rate": 2135,
   "description": "NADEEM SB GOGI DRUMMY (GRW)",
@@ -6257,7 +6231,7 @@
  },
  {
   "description": "DRUME NO.8KG (OP) (MT)",
-  "qty_inhand": -127,
+  "qty_inhand": -136,
   "cost": 1380,
   "rate": 1885,
   "description": "DIAMOND DRUMEY SHAN SB (GRW)",
@@ -6317,14 +6291,14 @@
  },
  {
   "description": "FRUIT TOKRI CHROME (GOL & CHORUS)",
-  "qty_inhand": -60,
+  "qty_inhand": -100,
   "cost": 440,
   "rate": 590,
   "catagory": "TOKRI"
  },
  {
   "description": "FRUIT TOKRI COPPER (GOL & CHORUS)",
-  "qty_inhand": 109,
+  "qty_inhand": 85,
   "cost": 540,
   "rate": 690,
   "catagory": "TOKRI"
@@ -6347,7 +6321,7 @@
  },
  {
   "description": "FRYPAN (8\") NS",
-  "qty_inhand": -145,
+  "qty_inhand": -147,
   "cost": 780,
   "rate": 1150,
   "description": "SAWAN MATEL FINE NS (GRW)",
@@ -6356,7 +6330,7 @@
  },
  {
   "description": "FRYPAN (9\") NS",
-  "qty_inhand": -142,
+  "qty_inhand": -146,
   "cost": 885,
   "rate": 1295,
   "description": "SAWAN MATEL FINE NS (GRW)",
@@ -6443,17 +6417,17 @@
   "fld_brand": "NO ENTRY"
  },
  {
-  "description": "FRYPAN SAMSUNG",
-  "qty_inhand": -2233,
-  "cost": 1300,
-  "rate": 1590,
-  "description": "SAMSUNG MATEL (GRW)",
+  "description": "FRYPAN METAL FINISH",
+  "qty_inhand": -4585,
+  "cost": 1150,
+  "rate": 1400,
+  "description": "QASIR MATEL (GRW)",
   "catagory": "FRYPAN"
  },
  {
-  "description": "FRYPAN WITH COVER SAMSUNG",
-  "qty_inhand": -4585,
-  "cost": 1450,
+  "description": "FRYPAN SAMSUNG",
+  "qty_inhand": -2243,
+  "cost": 1300,
   "rate": 1590,
   "description": "SAMSUNG MATEL (GRW)",
   "catagory": "FRYPAN"
@@ -6467,14 +6441,14 @@
  },
  {
   "description": "GADVI NO.3",
-  "qty_inhand": -3475,
+  "qty_inhand": -3481,
   "cost": 290,
   "rate": 380,
   "catagory": "GADVI"
  },
  {
   "description": "GADVI NO.4",
-  "qty_inhand": -2376,
+  "qty_inhand": -2383,
   "cost": 340,
   "rate": 440,
   "catagory": "GADVI"
@@ -6501,6 +6475,30 @@
   "catagory": "GIFT SET"
  },
  {
+  "description": "GIFT SET CLICK (4P)",
+  "qty_inhand": 11,
+  "cost": 5900,
+  "rate": 7275,
+  "catagory": "GIFT SET"
+ },
+ {
+  "description": "GIFT SET CLICK (5P)",
+  "qty_inhand": 4,
+  "cost": 7000,
+  "rate": 8575,
+  "description": "ALI BHAI (KRACHI)",
+  "catagory": "GIFT SET",
+  "fld_brand": "RAHBER"
+ },
+ {
+  "description": "GIFT SET CLICK (6P)",
+  "qty_inhand": 8,
+  "cost": 8100,
+  "rate": 9875,
+  "description": "ALI BHAI (KRACHI)",
+  "catagory": "GIFT SET"
+ },
+ {
   "description": "GIFT SET GOLD (4P)",
   "qty_inhand": 3,
   "cost": 5950,
@@ -6510,7 +6508,7 @@
  },
  {
   "description": "GIFT SET GRACE BRIGHTON (GL)",
-  "qty_inhand": 57,
+  "qty_inhand": 54,
   "cost": 6120,
   "rate": 7300,
   "description": "GRACE WARE (RWP)",
@@ -6519,7 +6517,7 @@
  },
  {
   "description": "GIFT SET GRACE BRIGHTON GOLD (GL)",
-  "qty_inhand": 31,
+  "qty_inhand": 9,
   "cost": 6345,
   "rate": 7550,
   "description": "GRACE WARE (RWP)",
@@ -6528,7 +6526,7 @@
  },
  {
   "description": "GIFT SET GRACE KORYO (GL)",
-  "qty_inhand": 18,
+  "qty_inhand": 17,
   "cost": 6165,
   "rate": 7350,
   "description": "GRACE WARE (RWP)",
@@ -6536,24 +6534,32 @@
   "fld_brand": "GRACE WARE"
  },
  {
-  "description": "GIFT SET HABIT (4P)",
-  "qty_inhand": -25,
-  "cost": 2950,
-  "rate": 4400,
+  "description": "GIFT SET HIT (4P)",
+  "qty_inhand": 16,
+  "cost": 3900,
+  "rate": 4925,
   "catagory": "GIFT SET"
  },
  {
-  "description": "GIFT SET HIT (4P)",
-  "qty_inhand": -23,
-  "cost": 3200,
-  "rate": 4475,
+  "description": "GIFT SET JEWEL (4P)",
+  "qty_inhand": 1,
+  "cost": 6900,
+  "rate": 8450,
+  "catagory": "GIFT SET"
+ },
+ {
+  "description": "GIFT SET JEWEL (7P)",
+  "qty_inhand": 8,
+  "cost": 10100,
+  "rate": 12550,
   "catagory": "GIFT SET"
  },
  {
   "description": "GIFT SET LIVON KING",
-  "qty_inhand": -43,
+  "qty_inhand": 26,
   "cost": 3175,
-  "rate": 3950,
+  "rate": 4250,
+  "description": "LIVON PLASTIC (GRW)",
   "catagory": "GIFT SET"
  },
  {
@@ -6565,10 +6571,10 @@
   "fld_brand": "NO ENTRY"
  },
  {
-  "description": "GIFT SET MJ CORAL  (GL)",
-  "qty_inhand": 9,
+  "description": "GIFT SET MJ CORAL (GL)",
+  "qty_inhand": 5,
   "cost": 5650,
-  "rate": 7315,
+  "rate": 7300,
   "catagory": "GIFT SET"
  },
  {
@@ -6580,7 +6586,7 @@
  },
  {
   "description": "GIFT SET MJ HAVALE (GL)",
-  "qty_inhand": -116,
+  "qty_inhand": 2,
   "cost": 5306,
   "rate": 6650,
   "description": "MAJESTIC COOLER (KRI)",
@@ -6588,71 +6594,60 @@
  },
  {
   "description": "GIFT SET MJ SHINE",
-  "qty_inhand": 13,
+  "qty_inhand": 4,
   "cost": 5106,
   "rate": 6400,
   "catagory": "GIFT SET"
  },
  {
-  "description": "GIFT SET PARTY (4P)",
-  "qty_inhand": -22,
-  "cost": 3100,
-  "rate": 4375,
-  "catagory": "GIFT SET"
+  "description": "GIFT SET PEPRIKA (4P)",
+  "qty_inhand": 8,
+  "cost": 5700,
+  "rate": 7050,
+  "description": "ALI BHAI (KRACHI)",
+  "catagory": "GIFT SET",
+  "fld_brand": "RAHBER"
  },
  {
   "description": "GIFT SET REVO (GL) (2-3-4)",
-  "qty_inhand": -221,
+  "qty_inhand": 2,
   "cost": 5777.78,
   "rate": 6950,
   "catagory": "GIFT SET"
  },
  {
   "description": "GIFT SET ROYAL (GL) (2-3-4)",
-  "qty_inhand": -24,
+  "qty_inhand": 3,
   "cost": 5450,
   "rate": 6850,
   "description": "KH NAVEED SB ROYAL (GRW)",
   "catagory": "GIFT SET"
  },
  {
-  "description": "GIFT SET SPRING (6P)",
-  "qty_inhand": 125,
-  "cost": 6500,
-  "rate": 7775,
-  "catagory": "GIFT SET"
- },
- {
-  "description": "GIFT SET WINNER",
-  "qty_inhand": -124,
+  "description": "GIFT SET WINNER (4P)",
+  "qty_inhand": 26,
   "cost": 3900,
-  "rate": 4950,
-  "catagory": "GIFT SET"
- },
- {
-  "description": "GIFT SET WITNESS (4P)",
-  "qty_inhand": -10,
-  "cost": 2950,
-  "rate": 4050,
+  "rate": 5300,
+  "description": "LIVON PLASTIC (GRW)",
   "catagory": "GIFT SET"
  },
  {
   "description": "GLASS (MT) BOX (A) (1.5 KG)",
-  "qty_inhand": -1777,
+  "qty_inhand": -1784,
   "cost": 1150,
   "rate": 1875,
   "catagory": "GLASS"
  },
  {
-  "description": "GLASS (MT) LOSS (FANCE STEEL)",
-  "qty_inhand": -925,
-  "cost": 1250,
+  "description": "GLASS (MT) LOSS",
+  "qty_inhand": -932,
+  "cost": 950,
   "rate": 1680,
   "catagory": "GLASS"
  },
  {
   "description": "GLASS (STEEL) BOX (16G) (INDIAN)",
-  "qty_inhand": -1020,
+  "qty_inhand": -1023,
   "cost": 1320,
   "rate": 2125,
   "catagory": "GLASS"
@@ -6666,7 +6661,7 @@
  },
  {
   "description": "GLASS (STEEL) CLASSIC (16G) (BOX)(1.5 KG)",
-  "qty_inhand": -152,
+  "qty_inhand": -157,
   "cost": 1220,
   "rate": 1950,
   "catagory": "GLASS"
@@ -6680,31 +6675,31 @@
  },
  {
   "description": "GLASS INDIAN (MURI KANARI) (WAZNI)",
-  "qty_inhand": -382,
+  "qty_inhand": -383,
   "cost": 1920,
   "rate": 2350,
   "catagory": "GLASS"
  },
  {
   "description": "GLASS INDIAN (SADA)",
-  "qty_inhand": -522,
+  "qty_inhand": -524,
   "cost": 1020,
   "rate": 2050,
   "catagory": "GLASS"
  },
  {
-  "description": "GLASS STEEL (MEHRAN) (14G)",
-  "qty_inhand": -422,
-  "cost": 2150,
-  "rate": 2800,
+  "description": "GLASS STEEL (GOGE) (16G)",
+  "qty_inhand": -965,
+  "cost": 2040,
+  "rate": 2450,
   "description": "MEHRAN STEEL (GRW)",
   "catagory": "GLASS"
  },
  {
-  "description": "GLASS STEEL (MEHRAN) (16G)",
-  "qty_inhand": -965,
-  "cost": 1900,
-  "rate": 2300,
+  "description": "GLASS STEEL (GOGE) (BOX)(INDEN)",
+  "qty_inhand": -422,
+  "cost": 2520,
+  "rate": 3000,
   "description": "MEHRAN STEEL (GRW)",
   "catagory": "GLASS"
  },
@@ -6717,7 +6712,7 @@
  },
  {
   "description": "GRACE DUSTBIN (40LTR)",
-  "qty_inhand": 0,
+  "qty_inhand": -8,
   "cost": 1220.6,
   "rate": 1550,
   "description": "GRACE WARE (RWP)",
@@ -6768,7 +6763,7 @@
  },
  {
   "description": "GRACE DUSTBIN ECO VERTEX (11L)",
-  "qty_inhand": 331,
+  "qty_inhand": 328,
   "cost": 538.9,
   "rate": 765,
   "description": "GRACE WARE (RWP)",
@@ -6777,7 +6772,7 @@
  },
  {
   "description": "GRACE DUSTBIN ECO VERTEX (26L)",
-  "qty_inhand": 6,
+  "qty_inhand": 3,
   "cost": 969,
   "rate": 1220,
   "description": "GRACE WARE (RWP)",
@@ -6786,7 +6781,7 @@
  },
  {
   "description": "GRACE PLATE RACK 2 KHANA",
-  "qty_inhand": -79,
+  "qty_inhand": -90,
   "cost": 960.5,
   "rate": 1275,
   "description": "GRACE WARE (RWP)",
@@ -6795,7 +6790,7 @@
  },
  {
   "description": "GRACE PLATE RACK 3 KHANA",
-  "qty_inhand": 83,
+  "qty_inhand": 81,
   "cost": 1431.4,
   "rate": 1870,
   "description": "GRACE WARE (RWP)",
@@ -6804,7 +6799,7 @@
  },
  {
   "description": "GRACE SABZI RACK 3 KHANA",
-  "qty_inhand": 200,
+  "qty_inhand": 195,
   "cost": 977.5,
   "rate": 1290,
   "description": "GRACE WARE (RWP)",
@@ -6821,7 +6816,7 @@
  },
  {
   "description": "HALF LITER",
-  "qty_inhand": -579,
+  "qty_inhand": -339,
   "cost": 85,
   "rate": 120,
   "catagory": "LITTER PAYMANA"
@@ -6842,14 +6837,14 @@
  },
  {
   "description": "HANDI 8'' STEEL",
-  "qty_inhand": -885,
+  "qty_inhand": -887,
   "cost": 790,
   "rate": 950,
   "catagory": "HANDI"
  },
  {
   "description": "HANDI 9'' STEEL",
-  "qty_inhand": -144,
+  "qty_inhand": -146,
   "cost": 880,
   "rate": 1060,
   "catagory": "HANDI"
@@ -6863,14 +6858,14 @@
  },
  {
   "description": "HANDI SET STEEL (3P)",
-  "qty_inhand": -1188,
+  "qty_inhand": -1190,
   "cost": 2640,
   "rate": 3185,
   "catagory": "HANDI"
  },
  {
   "description": "HANDI SET STEEL 3P (BACHA) (16G)",
-  "qty_inhand": -574,
+  "qty_inhand": -577,
   "cost": 1150,
   "rate": 1600,
   "catagory": "HANDI"
@@ -6892,7 +6887,7 @@
  },
  {
   "description": "HOT POT GRACE BRIGHTON (GL) (L)",
-  "qty_inhand": 51,
+  "qty_inhand": 47,
   "cost": 1875.6,
   "rate": 2250,
   "description": "GRACE WARE (RWP)",
@@ -6910,7 +6905,7 @@
  },
  {
   "description": "HOT POT GRACE KORYO (GL) (L)",
-  "qty_inhand": 23,
+  "qty_inhand": 19,
   "cost": 2322,
   "rate": 2700,
   "description": "GRACE WARE (RWP)",
@@ -6935,9 +6930,9 @@
  },
  {
   "description": "HOT POT KING (L)",
-  "qty_inhand": -29,
+  "qty_inhand": -40,
   "cost": 1000,
-  "rate": 1310,
+  "rate": 1375,
   "description": "LIVON PLASTIC (GRW)",
   "catagory": "HOT POT"
  },
@@ -6992,17 +6987,18 @@
  },
  {
   "description": "HOT POT WINNER (L)",
-  "qty_inhand": -21,
+  "qty_inhand": -22,
   "cost": 1200,
-  "rate": 1535,
+  "rate": 1625,
   "description": "LIVON PLASTIC (GRW)",
   "catagory": "HOT POT"
  },
  {
   "description": "HOT POT WINNER (L) (GL)",
-  "qty_inhand": -21,
+  "qty_inhand": -24,
   "cost": 1650,
-  "rate": 2075,
+  "rate": 2125,
+  "description": "LIVON PLASTIC (GRW)",
   "catagory": "HOT POT"
  },
  {
@@ -7014,7 +7010,7 @@
  },
  {
   "description": "IRON (PANASONIC)(KENWOOD)",
-  "qty_inhand": -43,
+  "qty_inhand": -49,
   "cost": 1550,
   "rate": 2150,
   "catagory": "IRON",
@@ -7038,14 +7034,14 @@
  },
  {
   "description": "JUG (3 & 1) 1.5 LTR",
-  "qty_inhand": -2580,
+  "qty_inhand": -2587,
   "cost": 240,
   "rate": 310,
   "catagory": "JUG"
  },
  {
   "description": "JUG (3 & 1) 1LTR",
-  "qty_inhand": -2031,
+  "qty_inhand": -2034,
   "cost": 180,
   "rate": 250,
   "catagory": "JUG"
@@ -7059,28 +7055,28 @@
  },
  {
   "description": "JUG (NOWAKE)",
-  "qty_inhand": -7538,
+  "qty_inhand": -7544,
   "cost": 200,
   "rate": 260,
   "catagory": "JUG"
  },
  {
   "description": "JUG FAMILY A (ZENIT)",
-  "qty_inhand": -5136,
+  "qty_inhand": -5180,
   "cost": 760,
   "rate": 950,
   "catagory": "JUG"
  },
  {
   "description": "JUG FAMILY LARGE (MT)",
-  "qty_inhand": -65,
+  "qty_inhand": -105,
   "cost": 460,
   "rate": 565,
   "catagory": "JUG"
  },
  {
   "description": "JUG FAMILY MEDIUM (MT)",
-  "qty_inhand": -331,
+  "qty_inhand": -337,
   "cost": 410,
   "rate": 500,
   "catagory": "JUG"
@@ -7094,7 +7090,7 @@
  },
  {
   "description": "JUG GAMLA (A)",
-  "qty_inhand": -798,
+  "qty_inhand": -811,
   "cost": 470,
   "rate": 585,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -7102,7 +7098,7 @@
  },
  {
   "description": "JUG GAMLA (WAZNE)",
-  "qty_inhand": -213,
+  "qty_inhand": -220,
   "cost": 550,
   "rate": 675,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -7110,7 +7106,7 @@
  },
  {
   "description": "JUG GAMLA MAHRAN (F)",
-  "qty_inhand": 37,
+  "qty_inhand": 33,
   "cost": 600,
   "rate": 740,
   "catagory": "JUG",
@@ -7120,46 +7116,47 @@
   "description": "JUG OCEAN (LIVON)",
   "qty_inhand": 30,
   "cost": 415,
-  "rate": 560,
+  "rate": 570,
   "catagory": "JUG"
  },
  {
   "description": "JUGI NO.1 MEHRAN",
-  "qty_inhand": -117,
+  "qty_inhand": -120,
   "cost": 295,
   "rate": 365,
   "catagory": "JUGI"
  },
  {
   "description": "JUGI NO.2 MEHRAN",
-  "qty_inhand": -137,
+  "qty_inhand": -140,
   "cost": 345,
   "rate": 420,
   "catagory": "JUGI"
  },
  {
   "description": "JUICER NATIONAL (3*1)",
+  "qty_inhand": 0,
   "cost": 4100,
   "rate": 5150,
   "catagory": "JUICER"
  },
  {
   "description": "KADDOKSH (PH) A",
-  "qty_inhand": -453,
+  "qty_inhand": -456,
   "cost": 225,
   "rate": 300,
   "catagory": "KADDOKSH"
  },
  {
   "description": "KADDOKSH BOX (PIPE)",
-  "qty_inhand": -794,
+  "qty_inhand": -734,
   "cost": 310,
   "rate": 420,
   "catagory": "KADDOKSH"
  },
  {
   "description": "KADDOKSH FANCY (PH)",
-  "qty_inhand": -215,
+  "qty_inhand": -223,
   "cost": 470,
   "rate": 625,
   "catagory": "KADDOKSH",
@@ -7175,16 +7172,16 @@
  },
  {
   "description": "KADDOKSH SHERAZ (26CM)",
-  "qty_inhand": -861,
-  "cost": 1110,
+  "qty_inhand": -843,
+  "cost": 1080,
   "rate": 1315,
   "description": "SHERAZ STEEL (GRW)",
   "catagory": "KADDOKSH"
  },
  {
   "description": "KADDOKSH SHERAZ (30CM)",
-  "qty_inhand": -677,
-  "cost": 1250,
+  "qty_inhand": -649,
+  "cost": 1220,
   "rate": 1485,
   "description": "SHERAZ STEEL (GRW)",
   "catagory": "KADDOKSH"
@@ -7219,7 +7216,7 @@
  },
  {
   "description": "KALSI TAMBIYA & KARAHI (KG)",
-  "qty_inhand": -1039,
+  "qty_inhand": -1041,
   "cost": 320,
   "rate": 500,
   "catagory": "KALSI"
@@ -7280,14 +7277,14 @@
  },
  {
   "description": "KARAHI HAANI (1*10)",
-  "qty_inhand": -15447,
+  "qty_inhand": -15474,
   "cost": 1350,
   "rate": 1600,
   "catagory": "KARAHI"
  },
  {
   "description": "KARAHI LASER CUTTING (32CM)",
-  "qty_inhand": -495,
+  "qty_inhand": -500,
   "cost": 4500,
   "rate": 5675,
   "description": "MANSORI TRADERS (KRI)",
@@ -7295,7 +7292,7 @@
  },
  {
   "description": "KARAHI LASER CUTTING (34CM)",
-  "qty_inhand": -1676,
+  "qty_inhand": -1677,
   "cost": 3373,
   "rate": 4450,
   "description": "MANSORI TRADERS (KRI)",
@@ -7310,14 +7307,14 @@
   "catagory": "KARAHI"
  },
  {
-  "description": "KARAHI METAL FINISH (1*7)",
-  "qty_inhand": -579,
+  "description": "KARAHI M-F (1*7) (WITH OUT BOX)",
+  "qty_inhand": -560,
   "cost": 1150,
   "rate": 1400,
   "catagory": "KARAHI"
  },
  {
-  "description": "KARAHI NO.1 NS (G\/L)",
+  "description": "KARAHI NO.1 NS (G/L)",
   "qty_inhand": -82,
   "cost": 1860,
   "rate": 2400,
@@ -7326,7 +7323,7 @@
   "fld_brand": "FINE MATEL"
  },
  {
-  "description": "KARAHI NO.2 NS (G\/L)",
+  "description": "KARAHI NO.2 NS (G/L)",
   "qty_inhand": -212,
   "cost": 2070,
   "rate": 2625,
@@ -7335,7 +7332,7 @@
   "fld_brand": "FINE MATEL"
  },
  {
-  "description": "KARAHI NO.3 NS (G\/L)",
+  "description": "KARAHI NO.3 NS (G/L)",
   "qty_inhand": -232,
   "cost": 2250,
   "rate": 2900,
@@ -7344,7 +7341,7 @@
   "fld_brand": "FINE MATEL"
  },
  {
-  "description": "KARAHI NO.4 NS (G\/L)",
+  "description": "KARAHI NO.4 NS (G/L)",
   "qty_inhand": -193,
   "cost": 2490,
   "rate": 3300,
@@ -7353,7 +7350,7 @@
   "fld_brand": "FINE MATEL"
  },
  {
-  "description": "KARAHI NO.5 NS (G\/L)",
+  "description": "KARAHI NO.5 NS (G/L)",
   "qty_inhand": -79,
   "cost": 2750,
   "rate": 4145,
@@ -7363,7 +7360,7 @@
  },
  {
   "description": "KARAHI SAMSUNG (1*8)",
-  "qty_inhand": -75438,
+  "qty_inhand": -75388,
   "cost": 1300,
   "rate": 1590,
   "description": "SAMSUNG MATEL (GRW)",
@@ -7410,15 +7407,15 @@
  },
  {
   "description": "KARCHI KAFGEER 17\" BLACK (12G)",
-  "qty_inhand": -107,
+  "qty_inhand": 13,
   "cost": 216.66,
   "rate": 290,
   "catagory": "KARCHI"
  },
  {
   "description": "KARCHI KAFGEER 17\" KAHU (14G)",
-  "qty_inhand": 34,
-  "cost": 200,
+  "qty_inhand": 118,
+  "cost": 191.66,
   "rate": 250,
   "catagory": "KARCHI"
  },
@@ -7431,8 +7428,8 @@
  },
  {
   "description": "KARCHI KAFGEER 24\" KUNDY WALI",
-  "qty_inhand": 217,
-  "cost": 358.33,
+  "qty_inhand": 397,
+  "cost": 325,
   "rate": 450,
   "catagory": "KARCHI"
  },
@@ -7473,14 +7470,14 @@
  },
  {
   "description": "KASA (N) (16G)",
-  "qty_inhand": -12,
+  "qty_inhand": -27,
   "cost": 720,
   "rate": 1020,
   "catagory": "KASA"
  },
  {
   "description": "KASA (TV) (PRIME) (1.200)",
-  "qty_inhand": -1178,
+  "qty_inhand": -1188,
   "cost": 920,
   "rate": 1200,
   "catagory": "KASA"
@@ -7515,7 +7512,7 @@
  },
  {
   "description": "KATTLE ELECTRIC (MINI)(NATIONAL)",
-  "qty_inhand": 10,
+  "qty_inhand": 7,
   "cost": 450,
   "rate": 750,
   "code": "NP-44",
@@ -7531,7 +7528,7 @@
  },
  {
   "description": "KATTLE ELECTRIC STEEL (NATIONAL)",
-  "qty_inhand": -22,
+  "qty_inhand": -36,
   "cost": 800,
   "rate": 1050,
   "catagory": "ELECTRIC KATTLE"
@@ -7558,24 +7555,10 @@
   "catagory": "KETLI"
  },
  {
-  "description": "KETLI (2.5L) GERMAN",
-  "qty_inhand": -820,
-  "cost": 1410,
-  "rate": 1775,
-  "catagory": "KETLI"
- },
- {
   "description": "KETLI (24CP) STEEL",
   "qty_inhand": -1223,
   "cost": 700,
   "rate": 825,
-  "catagory": "KETLI"
- },
- {
-  "description": "KETLI (3.5L) GERMAN",
-  "qty_inhand": -688,
-  "cost": 1510,
-  "rate": 1900,
   "catagory": "KETLI"
  },
  {
@@ -7593,25 +7576,10 @@
   "catagory": "KETLI"
  },
  {
-  "description": "KETLI (5.5L) GERMAN",
-  "qty_inhand": -21,
-  "cost": 1850,
-  "rate": 2325,
-  "description": "RAVI STEEL & KETLI (GRW)",
-  "catagory": "KETLI"
- },
- {
   "description": "KETLI (50CP) STEEL",
   "qty_inhand": -34,
   "cost": 1150,
   "rate": 1350,
-  "catagory": "KETLI"
- },
- {
-  "description": "KETLI (6.5L) GERMAN",
-  "qty_inhand": -125,
-  "cost": 2200,
-  "rate": 2885,
   "catagory": "KETLI"
  },
  {
@@ -7669,9 +7637,9 @@
  },
  {
   "description": "KETLI AJWA (24CM) BABA",
-  "qty_inhand": 3,
-  "cost": 1560,
-  "rate": 1875,
+  "qty_inhand": -10,
+  "cost": 1610,
+  "rate": 2025,
   "description": "RAVI STEEL & KETLI (GRW)",
   "catagory": "KETLI",
   "fld_brand": "NO ENTRY"
@@ -7686,7 +7654,7 @@
  },
  {
   "description": "KETLI AJWA (24CM) NAQSHI",
-  "qty_inhand": -21,
+  "qty_inhand": -25,
   "cost": 1660,
   "rate": 2085,
   "description": "RAVI STEEL & KETLI (GRW)",
@@ -7698,6 +7666,35 @@
   "cost": 1670,
   "rate": 1925,
   "description": "RAVI STEEL & KETLI (GRW)",
+  "catagory": "KETLI"
+ },
+ {
+  "description": "KETLI GERMAN (2.5L)",
+  "qty_inhand": -820,
+  "cost": 1410,
+  "rate": 1775,
+  "catagory": "KETLI"
+ },
+ {
+  "description": "KETLI GERMAN (3.5L)",
+  "qty_inhand": -688,
+  "cost": 1510,
+  "rate": 1900,
+  "catagory": "KETLI"
+ },
+ {
+  "description": "KETLI GERMAN (5.5L)",
+  "qty_inhand": -24,
+  "cost": 1850,
+  "rate": 2325,
+  "description": "RAVI STEEL & KETLI (GRW)",
+  "catagory": "KETLI"
+ },
+ {
+  "description": "KETLI GERMAN (6.5L)",
+  "qty_inhand": -125,
+  "cost": 2200,
+  "rate": 2885,
   "catagory": "KETLI"
  },
  {
@@ -7717,14 +7714,14 @@
  },
  {
   "description": "KETLI NEELAM (24CM) SADA",
-  "qty_inhand": -108,
+  "qty_inhand": -119,
   "cost": 1610,
   "rate": 2025,
   "catagory": "KETLI"
  },
  {
   "description": "KETLI WHISTLE (5.5CM)",
-  "qty_inhand": -37,
+  "qty_inhand": -46,
   "cost": 2550,
   "rate": 3200,
   "description": "RAVI STEEL & KETLI (GRW)",
@@ -7732,43 +7729,43 @@
  },
  {
   "description": "KITCHEN SET (HALO HANDAL) (7P) (12G)",
-  "qty_inhand": -2,
+  "qty_inhand": 29,
   "cost": 2000,
   "rate": 2500,
   "catagory": "KITCHEN SET"
  },
  {
   "description": "KITCHEN SET BLACK (4P) (12G)",
-  "qty_inhand": 38,
+  "qty_inhand": 65,
   "cost": 1012,
   "rate": 1275,
   "catagory": "KITCHEN SET"
  },
  {
   "description": "KITCHEN SET BLACK (7P) (12G)",
-  "qty_inhand": -25,
+  "qty_inhand": 6,
   "cost": 1645,
   "rate": 2100,
   "catagory": "KITCHEN SET"
  },
  {
   "description": "KITCHEN SET BLACK BABY (4P) (12G)",
-  "qty_inhand": -96,
+  "qty_inhand": -72,
   "cost": 830,
   "rate": 1075,
   "catagory": "KITCHEN SET"
  },
  {
   "description": "KITCHEN SET HALO HANDLE (4P)",
-  "qty_inhand": -497,
+  "qty_inhand": -460,
   "cost": 1325,
   "rate": 1665,
   "catagory": "KITCHEN SET"
  },
  {
   "description": "KITCHEN SET KAHU (4P) (WAZNI)",
-  "qty_inhand": 27,
-  "cost": 870,
+  "qty_inhand": 54,
+  "cost": 830,
   "rate": 1100,
   "catagory": "KITCHEN SET"
  },
@@ -7788,7 +7785,7 @@
  },
  {
   "description": "LAGAR NO.2",
-  "qty_inhand": -31,
+  "qty_inhand": 50,
   "cost": 1190,
   "rate": 1460,
   "description": "SHERAZ STEEL (GRW)",
@@ -7796,7 +7793,7 @@
  },
  {
   "description": "LAGAR NO.2 (16G)",
-  "qty_inhand": -93,
+  "qty_inhand": 41,
   "cost": 1400,
   "rate": 1710,
   "description": "SHERAZ STEEL (GRW)",
@@ -7804,15 +7801,15 @@
  },
  {
   "description": "LAGAR NO.3",
-  "qty_inhand": -84,
-  "cost": 1370,
-  "rate": 1775,
+  "qty_inhand": 80,
+  "cost": 1500,
+  "rate": 1850,
   "description": "SHERAZ STEEL (GRW)",
   "catagory": "LAGAR"
  },
  {
   "description": "LAGAR NO.3 (16G)",
-  "qty_inhand": -252,
+  "qty_inhand": 64,
   "cost": 1700,
   "rate": 2060,
   "description": "SHERAZ STEEL (GRW)",
@@ -7820,7 +7817,7 @@
  },
  {
   "description": "LAGAR NO.4",
-  "qty_inhand": 2,
+  "qty_inhand": 3,
   "cost": 1500,
   "rate": 2000,
   "description": "SHERAZ STEEL (GRW)",
@@ -7828,7 +7825,7 @@
  },
  {
   "description": "LAGAR NO.4 (16G)",
-  "qty_inhand": -88,
+  "qty_inhand": 34,
   "cost": 1900,
   "rate": 2300,
   "description": "SHERAZ STEEL (GRW)",
@@ -7836,14 +7833,14 @@
  },
  {
   "description": "LAGAR TOL (14G) (SPECIAL)",
-  "qty_inhand": -1911,
+  "qty_inhand": 157,
   "cost": 848.17,
   "rate": 1175,
   "catagory": "LAGAR"
  },
  {
   "description": "LAUNDRY GRACE",
-  "qty_inhand": 5,
+  "qty_inhand": 2,
   "cost": 1550,
   "rate": 1870,
   "description": "GRACE WARE (RWP)",
@@ -7852,7 +7849,7 @@
  },
  {
   "description": "LAUNDRY GRACE PIXEL",
-  "qty_inhand": 37,
+  "qty_inhand": 38,
   "cost": 650,
   "rate": 1050,
   "description": "GRACE WARE (RWP)",
@@ -7885,23 +7882,23 @@
  },
  {
   "description": "LITER A",
-  "qty_inhand": -743,
+  "qty_inhand": -527,
   "cost": 120,
   "rate": 160,
   "catagory": "LITTER PAYMANA"
  },
  {
   "description": "LOSS MALL DOUBLE GLAZE (GMW)",
-  "qty_inhand": -42268,
-  "cost": 690,
-  "rate": 825,
+  "qty_inhand": -41529,
+  "cost": 660,
+  "rate": 790,
   "catagory": "LOSS MALL"
  },
  {
   "description": "LOSS TRY CHORAS (GMW)",
   "qty_inhand": -1554,
   "cost": 640,
-  "rate": 815,
+  "rate": 780,
   "catagory": "LOSS MALL"
  },
  {
@@ -7920,7 +7917,7 @@
  },
  {
   "description": "LOTA NO.4",
-  "qty_inhand": -8575,
+  "qty_inhand": -8606,
   "cost": 475,
   "rate": 600,
   "catagory": "LOTA",
@@ -7928,7 +7925,7 @@
  },
  {
   "description": "LOTA NO.5",
-  "qty_inhand": -3964,
+  "qty_inhand": -3979,
   "cost": 550,
   "rate": 700,
   "catagory": "LOTA"
@@ -7965,7 +7962,7 @@
  },
  {
   "description": "MAKHAN DABI HASSAN (3P)",
-  "qty_inhand": 165,
+  "qty_inhand": 159,
   "cost": 620.4,
   "rate": 790,
   "catagory": "MAKHAN DABI"
@@ -7999,7 +7996,7 @@
  },
  {
   "description": "MARTABAN NO. 3 MT",
-  "qty_inhand": -64,
+  "qty_inhand": -68,
   "cost": 550,
   "rate": 700,
   "description": "DIAMOND DRUMEY SHAN SB (GRW)",
@@ -8026,70 +8023,70 @@
  },
  {
   "description": "MARTABAN NO.0",
-  "qty_inhand": 7,
+  "qty_inhand": 150,
   "cost": 658,
   "rate": 825,
   "catagory": "MARTABAN"
  },
  {
   "description": "MARTABAN NO.1",
-  "qty_inhand": -81,
+  "qty_inhand": 28,
   "cost": 752,
   "rate": 910,
   "catagory": "MARTABAN"
  },
  {
   "description": "MARTABAN NO.1 FANCY",
-  "qty_inhand": -1002,
+  "qty_inhand": -1006,
   "cost": 850,
   "rate": 1000,
   "catagory": "MARTABAN"
  },
  {
   "description": "MARTABAN NO.2",
-  "qty_inhand": -78,
+  "qty_inhand": 71,
   "cost": 875,
   "rate": 1050,
   "catagory": "MARTABAN"
  },
  {
   "description": "MARTABAN NO.2 FANCY",
-  "qty_inhand": -886,
+  "qty_inhand": -894,
   "cost": 950,
   "rate": 1125,
   "catagory": "MARTABAN"
  },
  {
   "description": "MARTABAN NO.3",
-  "qty_inhand": 179,
+  "qty_inhand": 38,
   "cost": 987,
   "rate": 1200,
   "catagory": "MARTABAN"
  },
  {
   "description": "MARTABAN NO.3 FANCY",
-  "qty_inhand": -794,
+  "qty_inhand": -815,
   "cost": 1050,
   "rate": 1250,
   "catagory": "MARTABAN"
  },
  {
   "description": "MARTABAN NO.4",
-  "qty_inhand": 73,
+  "qty_inhand": 21,
   "cost": 1175,
   "rate": 1425,
   "catagory": "MARTABAN"
  },
  {
   "description": "MARTABAN NO.4 FANCY",
-  "qty_inhand": -83,
+  "qty_inhand": -85,
   "cost": 1128,
   "rate": 1470,
   "catagory": "MARTABAN"
  },
  {
   "description": "MARTABAN NO.5",
-  "qty_inhand": 25,
+  "qty_inhand": 47,
   "cost": 1363,
   "rate": 1650,
   "catagory": "MARTABAN"
@@ -8103,7 +8100,7 @@
  },
  {
   "description": "MARTABAN NO.6",
-  "qty_inhand": 2,
+  "qty_inhand": 17,
   "cost": 1560,
   "rate": 1885,
   "catagory": "MARTABAN"
@@ -8147,7 +8144,7 @@
   "description": "MASALA BOX BRAVO SMART (6P) (PB)",
   "qty_inhand": 29,
   "cost": 1350,
-  "rate": 1825,
+  "rate": 1835,
   "description": "USAMA PLASTIC (GRW)",
   "catagory": "MASALA BOX"
  },
@@ -8161,7 +8158,7 @@
  },
  {
   "description": "MASALA BOX CHOICE (6P)",
-  "qty_inhand": -2,
+  "qty_inhand": -3,
   "cost": 950,
   "rate": 1295,
   "description": "USAMA PLASTIC (GRW)",
@@ -8169,9 +8166,9 @@
  },
  {
   "description": "MASALA BOX CHOICE (9P)",
-  "qty_inhand": -37,
-  "cost": 1350,
-  "rate": 1810,
+  "qty_inhand": -30,
+  "cost": 1215,
+  "rate": 1785,
   "description": "USAMA PLASTIC (GRW)",
   "catagory": "MASALA BOX"
  },
@@ -8185,16 +8182,16 @@
  },
  {
   "description": "MASALA BOX CROWN (6P) PB",
-  "qty_inhand": -29,
-  "cost": 810,
+  "qty_inhand": -17,
+  "cost": 855,
   "rate": 1235,
   "description": "USAMA PLASTIC (GRW)",
   "catagory": "MASALA BOX"
  },
  {
   "description": "MASALA BOX CROWN (8P) PB",
-  "qty_inhand": -33,
-  "cost": 1080,
+  "qty_inhand": -25,
+  "cost": 990,
   "rate": 1415,
   "description": "USAMA PLASTIC (GRW)",
   "catagory": "MASALA BOX"
@@ -8210,9 +8207,9 @@
  },
  {
   "description": "MASALA BOX HI CLASS (6P) PB",
-  "qty_inhand": -62,
+  "qty_inhand": -64,
   "cost": 810,
-  "rate": 1060,
+  "rate": 1115,
   "description": "USAMA PLASTIC (GRW)",
   "catagory": "MASALA BOX"
  },
@@ -8220,15 +8217,15 @@
   "description": "MASALA BOX HI CLASS (6P) WB",
   "qty_inhand": -22,
   "cost": 855,
-  "rate": 1175,
+  "rate": 1250,
   "description": "USAMA PLASTIC (GRW)",
   "catagory": "MASALA BOX"
  },
  {
   "description": "MASALA BOX HI CLASS (8P) PB",
-  "qty_inhand": -38,
+  "qty_inhand": -39,
   "cost": 990,
-  "rate": 1295,
+  "rate": 1350,
   "description": "USAMA PLASTIC (GRW)",
   "catagory": "MASALA BOX"
  },
@@ -8236,22 +8233,22 @@
   "description": "MASALA BOX HI CLASS (8P) WB",
   "qty_inhand": -28,
   "cost": 990,
-  "rate": 1355,
+  "rate": 1415,
   "description": "USAMA PLASTIC (GRW)",
   "catagory": "MASALA BOX"
  },
  {
   "description": "MASALA BOX MODERN (6P) WB",
-  "qty_inhand": 17,
-  "cost": 1035,
-  "rate": 1355,
+  "qty_inhand": 41,
+  "cost": 990,
+  "rate": 1350,
   "description": "USAMA PLASTIC (GRW)",
   "catagory": "MASALA BOX"
  },
  {
   "description": "MASALA BOX MODERN (8P) WB",
-  "qty_inhand": -26,
-  "cost": 1215,
+  "qty_inhand": -12,
+  "cost": 1125,
   "rate": 1590,
   "description": "USAMA PLASTIC (GRW)",
   "catagory": "MASALA BOX"
@@ -8265,7 +8262,7 @@
  },
  {
   "description": "MILK CANE NO.0",
-  "qty_inhand": -41,
+  "qty_inhand": -43,
   "cost": 535,
   "rate": 650,
   "catagory": "MILK CANE"
@@ -8281,7 +8278,7 @@
  },
  {
   "description": "MILK CANE NO.1",
-  "qty_inhand": 10,
+  "qty_inhand": -12,
   "cost": 573.4,
   "rate": 725,
   "catagory": "MILK CANE"
@@ -8295,7 +8292,7 @@
  },
  {
   "description": "MILK CANE NO.1 MT",
-  "qty_inhand": -8,
+  "qty_inhand": -12,
   "cost": 410,
   "rate": 490,
   "description": "DIAMOND DRUMEY SHAN SB (GRW)",
@@ -8304,7 +8301,7 @@
  },
  {
   "description": "MILK CANE NO.2",
-  "qty_inhand": -219,
+  "qty_inhand": -239,
   "cost": 650,
   "rate": 795,
   "catagory": "MILK CANE"
@@ -8327,14 +8324,14 @@
  },
  {
   "description": "MILK CANE NO.3",
-  "qty_inhand": -28,
+  "qty_inhand": -48,
   "cost": 705,
   "rate": 875,
   "catagory": "MILK CANE"
  },
  {
   "description": "MILK CANE NO.3 (16G)",
-  "qty_inhand": 53,
+  "qty_inhand": 47,
   "cost": 880,
   "rate": 1060,
   "catagory": "MILK CANE"
@@ -8350,7 +8347,7 @@
  },
  {
   "description": "MILK CANE NO.4 (16G)",
-  "qty_inhand": -22,
+  "qty_inhand": -26,
   "cost": 1075,
   "rate": 1300,
   "catagory": "MILK CANE"
@@ -8366,7 +8363,7 @@
  },
  {
   "description": "MILK CANE NO.5 (16G)",
-  "qty_inhand": 6,
+  "qty_inhand": 4,
   "cost": 1265,
   "rate": 1525,
   "catagory": "MILK CANE"
@@ -8419,35 +8416,35 @@
  },
  {
   "description": "MUG FANCY LARGE (INDIAN)",
-  "qty_inhand": -894,
+  "qty_inhand": -918,
   "cost": 200,
   "rate": 295,
   "catagory": "MUG"
  },
  {
   "description": "MUG FANCY MEDIUM (INDIAN)",
-  "qty_inhand": -815,
+  "qty_inhand": -851,
   "cost": 160,
   "rate": 230,
   "catagory": "MUG"
  },
  {
   "description": "MUG NO.1 MEHRAN",
-  "qty_inhand": 73,
+  "qty_inhand": 43,
   "cost": 140,
   "rate": 230,
   "catagory": "MUG"
  },
  {
   "description": "MUG NO.2 MEHRAN",
-  "qty_inhand": -427,
+  "qty_inhand": -433,
   "cost": 235,
   "rate": 285,
   "catagory": "MUG"
  },
  {
   "description": "MUG NO.3 MEHRAN",
-  "qty_inhand": -249,
+  "qty_inhand": -273,
   "cost": 275,
   "rate": 330,
   "catagory": "MUG"
@@ -8468,7 +8465,7 @@
  },
  {
   "description": "MUGHI NO.1 (FINE) N",
-  "qty_inhand": -2815,
+  "qty_inhand": 0,
   "cost": 900,
   "rate": 1225,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -8476,7 +8473,7 @@
  },
  {
   "description": "MUGHI NO.1 (FINE) S",
-  "qty_inhand": -358,
+  "qty_inhand": -374,
   "cost": 900,
   "rate": 1125,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -8491,21 +8488,21 @@
  },
  {
   "description": "MUGHI NO.1 MT",
-  "qty_inhand": 2,
+  "qty_inhand": 0,
   "cost": 630,
   "rate": 790,
   "catagory": "MUGHI"
  },
  {
   "description": "MUGHI NO.2 (14G)",
-  "qty_inhand": -306,
+  "qty_inhand": -308,
   "cost": 1050,
   "rate": 1690,
   "catagory": "MUGHI"
  },
  {
   "description": "MUGHI NO.2 (FINE) N",
-  "qty_inhand": -2766,
+  "qty_inhand": 140,
   "cost": 1200,
   "rate": 1450,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -8513,7 +8510,7 @@
  },
  {
   "description": "MUGHI NO.2 (FINE) S",
-  "qty_inhand": -265,
+  "qty_inhand": -268,
   "cost": 1150,
   "rate": 1235,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -8528,7 +8525,7 @@
  },
  {
   "description": "MUGHI NO.2 MT",
-  "qty_inhand": 2,
+  "qty_inhand": 0,
   "cost": 770,
   "rate": 975,
   "catagory": "MUGHI"
@@ -8549,7 +8546,7 @@
  },
  {
   "description": "MUGHI NO.3 (FINE) N",
-  "qty_inhand": -3530,
+  "qty_inhand": 50,
   "cost": 1315,
   "rate": 1635,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -8557,7 +8554,7 @@
  },
  {
   "description": "MUGHI NO.3 (FINE) S",
-  "qty_inhand": -1145,
+  "qty_inhand": -1151,
   "cost": 1200,
   "rate": 1485,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -8572,7 +8569,7 @@
  },
  {
   "description": "MUGHI NO.3 MT",
-  "qty_inhand": -44,
+  "qty_inhand": -47,
   "cost": 920,
   "rate": 1150,
   "catagory": "MUGHI"
@@ -8586,7 +8583,7 @@
  },
  {
   "description": "MUGHI NO.4 (FINE) N",
-  "qty_inhand": -2994,
+  "qty_inhand": 20,
   "cost": 1550,
   "rate": 1925,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -8594,7 +8591,7 @@
  },
  {
   "description": "MUGHI NO.4 (FINE) S",
-  "qty_inhand": 40,
+  "qty_inhand": 30,
   "cost": 1470,
   "rate": 1835,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -8623,7 +8620,7 @@
  },
  {
   "description": "MUGHI NO.5 (FINE) N",
-  "qty_inhand": -2515,
+  "qty_inhand": 40,
   "cost": 1900,
   "rate": 2335,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -8653,7 +8650,7 @@
  },
  {
   "description": "MUGHI NO.6 GOGI (16G)",
-  "qty_inhand": 8,
+  "qty_inhand": 1,
   "cost": 3150,
   "rate": 3785,
   "description": "TARIQ SB GOGI STEEL (GRW)",
@@ -8698,8 +8695,8 @@
   "catagory": "COOKER"
  },
  {
-  "description": "NAMAK DANI (2P) NO.(1203\/2) ACRYLIC",
-  "qty_inhand": -2439,
+  "description": "NAMAK DANI (2P) NO.(1203/2) ACRYLIC",
+  "qty_inhand": -2467,
   "cost": 514.6,
   "rate": 640,
   "code": "1202",
@@ -8708,7 +8705,7 @@
  },
  {
   "description": "NAMAK DANI (2P) NO.1206 ACRYLIC",
-  "qty_inhand": -396,
+  "qty_inhand": -424,
   "cost": 415,
   "rate": 620,
   "code": "1206",
@@ -8725,7 +8722,7 @@
  },
  {
   "description": "NAMAK DANI (4P) NO.1211 ACRYLIC",
-  "qty_inhand": -704,
+  "qty_inhand": -710,
   "cost": 763.6,
   "rate": 950,
   "code": "1211",
@@ -8770,7 +8767,7 @@
  },
  {
   "description": "NAMAK DANI (DS) LA PRADO (4P)",
-  "qty_inhand": -280,
+  "qty_inhand": -289,
   "cost": 697,
   "rate": 1030,
   "catagory": "NAMAK DANI"
@@ -8812,7 +8809,7 @@
  },
  {
   "description": "NAMAK DANI (DS) SPARKLE",
-  "qty_inhand": -265,
+  "qty_inhand": -268,
   "cost": 516.6,
   "rate": 770,
   "catagory": "NAMAK DANI"
@@ -8841,9 +8838,9 @@
  },
  {
   "description": "NAMAK DANI LIVON FINE (3P) (PH)",
-  "qty_inhand": -626,
+  "qty_inhand": -634,
   "cost": 230,
-  "rate": 315,
+  "rate": 335,
   "description": "LIVON PLASTIC (GRW)",
   "catagory": "NAMAK DANI"
  },
@@ -8864,119 +8861,119 @@
  },
  {
   "description": "PARAAT 10\" PRIME",
-  "qty_inhand": 338,
+  "qty_inhand": 78,
   "cost": 150,
   "rate": 230,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 12'' (18G)",
-  "qty_inhand": -1329,
+  "qty_inhand": 173,
   "cost": 175,
   "rate": 230,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 12\" (16G)",
-  "qty_inhand": 33,
+  "qty_inhand": 160,
   "cost": 210,
   "rate": 290,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 12\" PRIME",
-  "qty_inhand": -767,
+  "qty_inhand": 49,
   "cost": 340,
   "rate": 455,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 14\" (16G)",
-  "qty_inhand": -101,
+  "qty_inhand": 173,
   "cost": 305,
   "rate": 375,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 14\" (18G)",
-  "qty_inhand": -192,
+  "qty_inhand": 2,
   "cost": 205,
   "rate": 310,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 14\" PRIME",
-  "qty_inhand": -37,
+  "qty_inhand": 66,
   "cost": 415,
   "rate": 535,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 16\" (16G)",
-  "qty_inhand": -67,
+  "qty_inhand": 155,
   "cost": 365,
   "rate": 475,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 16\" (18G)",
-  "qty_inhand": -146,
+  "qty_inhand": 24,
   "cost": 255,
   "rate": 400,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 16\" PRIME",
-  "qty_inhand": 144,
+  "qty_inhand": 2,
   "cost": 475,
   "rate": 615,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 18\" (16G)",
-  "qty_inhand": -251,
+  "qty_inhand": 95,
   "cost": 465,
   "rate": 600,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 18\" (18G)",
-  "qty_inhand": -114,
+  "qty_inhand": -1,
   "cost": 335,
   "rate": 500,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 18\" PRIME",
-  "qty_inhand": 26,
+  "qty_inhand": 93,
   "cost": 600,
   "rate": 775,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 20\" (16G)",
-  "qty_inhand": -175,
+  "qty_inhand": 149,
   "cost": 585,
   "rate": 750,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 20\" (18G)",
-  "qty_inhand": -132,
+  "qty_inhand": 80,
   "cost": 440,
   "rate": 660,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 20\" PRIME",
-  "qty_inhand": 105,
+  "qty_inhand": 72,
   "cost": 720,
   "rate": 925,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 22\" (16G)",
-  "qty_inhand": -58,
+  "qty_inhand": 140,
   "cost": 650,
   "rate": 925,
   "catagory": "PARAAT"
@@ -8990,21 +8987,21 @@
  },
  {
   "description": "PARAAT 22\" PRIME",
-  "qty_inhand": 115,
+  "qty_inhand": 120,
   "cost": 830,
   "rate": 1065,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT 24\" (16G)",
-  "qty_inhand": -147,
+  "qty_inhand": 140,
   "cost": 960,
   "rate": 1250,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT SHERAZ 12\" (16G)",
-  "qty_inhand": -467,
+  "qty_inhand": 0,
   "cost": 310,
   "rate": 445,
   "description": "SHERAZ STEEL (GRW)",
@@ -9012,7 +9009,7 @@
  },
  {
   "description": "PARAAT SHERAZ 14\" (16G)",
-  "qty_inhand": -2441,
+  "qty_inhand": 50,
   "cost": 415,
   "rate": 525,
   "description": "SHERAZ STEEL (GRW)",
@@ -9020,7 +9017,7 @@
  },
  {
   "description": "PARAAT SHERAZ 16\" (16G)",
-  "qty_inhand": -5762,
+  "qty_inhand": 100,
   "cost": 450,
   "rate": 615,
   "description": "SHERAZ STEEL (GRW)",
@@ -9028,14 +9025,14 @@
  },
  {
   "description": "PARAAT SHERAZ 18\" (16G)",
-  "qty_inhand": -7005,
+  "qty_inhand": 40,
   "cost": 560,
   "rate": 755,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT SHERAZ 20\" (16G)",
-  "qty_inhand": -6435,
+  "qty_inhand": 15,
   "cost": 750,
   "rate": 925,
   "description": "SHERAZ STEEL (GRW)",
@@ -9043,7 +9040,7 @@
  },
  {
   "description": "PARAAT SHERAZ 22\" (16G)",
-  "qty_inhand": -5636,
+  "qty_inhand": 15,
   "cost": 930,
   "rate": 1160,
   "description": "SHERAZ STEEL (GRW)",
@@ -9051,7 +9048,7 @@
  },
  {
   "description": "PARAAT SHERAZ 24\" (16G)",
-  "qty_inhand": -3815,
+  "qty_inhand": 0,
   "cost": 1080,
   "rate": 1465,
   "description": "SHERAZ STEEL (GRW)",
@@ -9059,14 +9056,14 @@
  },
  {
   "description": "PARAAT SHERAZ 24\" (PRIME)",
-  "qty_inhand": 193,
+  "qty_inhand": 170,
   "cost": 1120,
   "rate": 1635,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT SHERAZ 26\" (16G)",
-  "qty_inhand": -3,
+  "qty_inhand": 0,
   "cost": 1565,
   "rate": 1965,
   "description": "SHERAZ STEEL (GRW)",
@@ -9074,7 +9071,7 @@
  },
  {
   "description": "PARAAT SHERAZ 28\" (16G)",
-  "qty_inhand": -6,
+  "qty_inhand": 0,
   "cost": 1770,
   "rate": 2190,
   "description": "SHERAZ STEEL (GRW)",
@@ -9082,7 +9079,7 @@
  },
  {
   "description": "PARAAT SHERAZ 30\" (16G)",
-  "qty_inhand": -159,
+  "qty_inhand": 0,
   "cost": 2930,
   "rate": 3470,
   "description": "SHERAZ STEEL (GRW)",
@@ -9090,22 +9087,22 @@
  },
  {
   "description": "PARAAT TOOL (12-24) (14G)",
-  "qty_inhand": -856,
+  "qty_inhand": 468,
   "cost": 650,
   "rate": 790,
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT TOOL SHERAZ (12-20) (14G)",
-  "qty_inhand": -8300,
-  "cost": 690,
+  "qty_inhand": 1169,
+  "cost": 680,
   "rate": 820,
   "description": "SHERAZ STEEL (GRW)",
   "catagory": "PARAAT"
  },
  {
   "description": "PARAAT TOOL SHERAZ (22-30) (14G)",
-  "qty_inhand": 175,
+  "qty_inhand": 129,
   "cost": 726.53,
   "rate": 885,
   "catagory": "PARAAT"
@@ -9126,7 +9123,7 @@
  },
  {
   "description": "PLATE 8\" (16G)",
-  "qty_inhand": -37,
+  "qty_inhand": -44,
   "cost": 817.2,
   "rate": 1358,
   "catagory": "PLATE"
@@ -9139,21 +9136,21 @@
   "catagory": "PLATE"
  },
  {
-  "description": "PLATE 9\" (14G)(2.5)",
+  "description": "PLATE 9\" (14G)",
   "qty_inhand": -341,
   "cost": 1584,
   "rate": 2090,
   "catagory": "PLATE"
  },
  {
-  "description": "PLATE 9\" (16G)(1.7)",
-  "qty_inhand": -31,
+  "description": "PLATE 9\" (16G)",
+  "qty_inhand": -54,
   "cost": 1048.85,
   "rate": 1490,
   "catagory": "PLATE"
  },
  {
-  "description": "PLATE 9\" (20G)(1.0)",
+  "description": "PLATE 9\" (20G)",
   "qty_inhand": -1639,
   "cost": 720,
   "rate": 900,
@@ -9203,21 +9200,21 @@
  },
  {
   "description": "PONI NO.2 DELL (14G)",
-  "qty_inhand": -13,
+  "qty_inhand": -16,
   "cost": 880,
   "rate": 1140,
   "catagory": "PONI"
  },
  {
   "description": "PONI NO.2 MINAR",
-  "qty_inhand": -847,
+  "qty_inhand": -853,
   "cost": 740,
   "rate": 970,
   "catagory": "PONI"
  },
  {
   "description": "PONI NO.2 ROYAL",
-  "qty_inhand": -158,
+  "qty_inhand": -160,
   "cost": 810,
   "rate": 1030,
   "catagory": "PONI"
@@ -9231,7 +9228,7 @@
  },
  {
   "description": "PONI NO.3 MINAR",
-  "qty_inhand": -429,
+  "qty_inhand": -431,
   "cost": 840,
   "rate": 1100,
   "catagory": "PONI"
@@ -9245,7 +9242,7 @@
  },
  {
   "description": "PONI NO.4 MINER",
-  "qty_inhand": -40,
+  "qty_inhand": -41,
   "cost": 940,
   "rate": 1210,
   "catagory": "PONI"
@@ -9259,7 +9256,7 @@
  },
  {
   "description": "PONI NO.5 DELL (14G)",
-  "qty_inhand": 2,
+  "qty_inhand": 1,
   "cost": 1550,
   "rate": 1960,
   "catagory": "PONI"
@@ -9273,21 +9270,21 @@
  },
  {
   "description": "POWA 17'' BLACK (12G)",
-  "qty_inhand": -65,
+  "qty_inhand": -17,
   "cost": 311.66,
   "rate": 390,
   "catagory": "POWA"
  },
  {
   "description": "POWA 17'' KAHU (14G)",
-  "qty_inhand": -124,
+  "qty_inhand": -148,
   "cost": 195.83,
   "rate": 260,
   "catagory": "POWA"
  },
  {
   "description": "POWA 24\" KAHU (16G)",
-  "qty_inhand": -49,
+  "qty_inhand": -53,
   "cost": 391.66,
   "rate": 525,
   "catagory": "POWA"
@@ -9301,14 +9298,14 @@
  },
  {
   "description": "POWA BABY BLACK (12G)",
-  "qty_inhand": -463,
+  "qty_inhand": -427,
   "cost": 260,
   "rate": 325,
   "catagory": "POWA"
  },
  {
   "description": "POWA BABY WH",
-  "qty_inhand": 94,
+  "qty_inhand": 88,
   "cost": 90,
   "rate": 125,
   "catagory": "POWA"
@@ -9329,14 +9326,14 @@
  },
  {
   "description": "PUSH CHOPPER 2L (ST) (CHINA)",
-  "qty_inhand": 28,
+  "qty_inhand": 23,
   "cost": 600,
   "rate": 790,
   "catagory": "KADDOKSH"
  },
  {
   "description": "RABER COOKER (BLACK)",
-  "qty_inhand": -369,
+  "qty_inhand": -370,
   "cost": 1190,
   "rate": 1560,
   "catagory": "COOKER"
@@ -9357,13 +9354,13 @@
  },
  {
   "description": "RABER COOKER (WHITE)",
-  "qty_inhand": -1565,
+  "qty_inhand": -1566,
   "cost": 1190,
   "rate": 1500,
   "catagory": "COOKER"
  },
  {
-  "description": "RABER COOKER BLACK A (G\/L)",
+  "description": "RABER COOKER BLACK A (G/L)",
   "qty_inhand": 10,
   "cost": 850,
   "rate": 1125,
@@ -9417,15 +9414,15 @@
  },
  {
   "description": "SASPAN METAL FINISH",
-  "qty_inhand": -750,
+  "qty_inhand": -712,
   "cost": 1150,
   "rate": 1400,
   "catagory": "SASPAN"
  },
  {
   "description": "SASPAN SAMSUNG",
-  "qty_inhand": -16992,
-  "cost": 1280,
+  "qty_inhand": -16888,
+  "cost": 1300,
   "rate": 1590,
   "description": "SAMSUNG MATEL (GRW)",
   "catagory": "SASPAN"
@@ -9439,21 +9436,21 @@
  },
  {
   "description": "SASPAN STEEL 6'' SMALL",
-  "qty_inhand": -881,
+  "qty_inhand": -883,
   "cost": 510,
   "rate": 635,
   "catagory": "SASPAN"
  },
  {
   "description": "SASPAN STEEL 7'' MEDIUM",
-  "qty_inhand": -1166,
+  "qty_inhand": -1168,
   "cost": 610,
   "rate": 765,
   "catagory": "SASPAN"
  },
  {
   "description": "SASPAN STEEL 8'' LARGE",
-  "qty_inhand": -1119,
+  "qty_inhand": -1121,
   "cost": 710,
   "rate": 900,
   "catagory": "SASPAN"
@@ -9488,7 +9485,7 @@
  },
  {
   "description": "SIPRI SET SUPREEM",
-  "qty_inhand": -26814,
+  "qty_inhand": -26742,
   "cost": 1300,
   "rate": 1570,
   "catagory": "SIPRI SET"
@@ -9532,7 +9529,7 @@
  },
  {
   "description": "SPON (D) (16G)",
-  "qty_inhand": -5533,
+  "qty_inhand": -5537,
   "cost": 400,
   "rate": 525,
   "catagory": "SPON"
@@ -9553,7 +9550,7 @@
  },
  {
   "description": "SPON (SARVING & PANJA) (16G)",
-  "qty_inhand": -790,
+  "qty_inhand": -792,
   "cost": 880,
   "rate": 1100,
   "catagory": "SPON"
@@ -9623,8 +9620,8 @@
  },
  {
   "description": "STORAGE BOWL (3P) (SHERAZ)",
-  "qty_inhand": -2317,
-  "cost": 1960,
+  "qty_inhand": -2275,
+  "cost": 1890,
   "rate": 2325,
   "description": "SHERAZ STEEL (GRW)",
   "catagory": "BOWL"
@@ -9676,7 +9673,7 @@
  },
  {
   "description": "TAMBIYA 11*12 HAANI (KAN-KUNDA)",
-  "qty_inhand": -17796,
+  "qty_inhand": -17693,
   "cost": 1360,
   "rate": 1610,
   "description": "HAANI METAL (GRW)",
@@ -9685,7 +9682,7 @@
  },
  {
   "description": "TAMBIYA 11*14 HAANI & (F)",
-  "qty_inhand": -1115,
+  "qty_inhand": -1138,
   "cost": 1353,
   "rate": 1600,
   "description": "HAANI METAL (GRW)",
@@ -9694,7 +9691,7 @@
  },
  {
   "description": "TAMBIYA 11*14 SAMSUNG & (F)",
-  "qty_inhand": -7200,
+  "qty_inhand": -7210,
   "cost": 1298,
   "rate": 1590,
   "description": "SAMSUNG MATEL (GRW)",
@@ -9709,21 +9706,21 @@
  },
  {
   "description": "TAMBIYA 13*15 (STEEL)",
-  "qty_inhand": -2467,
+  "qty_inhand": -2473,
   "cost": 786.23,
   "rate": 960,
   "catagory": "TAMBIYA"
  },
  {
   "description": "TAMBIYA 13*16 (M-F) (WITH OUT BOX)",
-  "qty_inhand": 27,
+  "qty_inhand": 75,
   "cost": 1150,
   "rate": 1400,
   "catagory": "TAMBIYA"
  },
  {
   "description": "TAMBIYA 13*16 HAANI & (F)",
-  "qty_inhand": -5254,
+  "qty_inhand": -5090,
   "cost": 1355,
   "rate": 1600,
   "description": "HAANI METAL (GRW)",
@@ -9732,7 +9729,7 @@
  },
  {
   "description": "TAMBIYA 13*16 SAMSUNG & (F)",
-  "qty_inhand": -23153,
+  "qty_inhand": -23038,
   "cost": 1300,
   "rate": 1590,
   "description": "SAMSUNG MATEL (GRW)",
@@ -9761,7 +9758,7 @@
  },
  {
   "description": "TAMBIYA 7*12 (STEEL)",
-  "qty_inhand": -4108,
+  "qty_inhand": -4113,
   "cost": 740,
   "rate": 910,
   "catagory": "TAMBIYA"
@@ -9775,14 +9772,14 @@
  },
  {
   "description": "TAMBIYA 9*12 (M-F) (WITH OUT BOX)",
-  "qty_inhand": 4,
+  "qty_inhand": -3,
   "cost": 1150,
   "rate": 1400,
   "catagory": "TAMBIYA"
  },
  {
   "description": "TAMBIYA 9*12 HAANI & (F)",
-  "qty_inhand": -2053,
+  "qty_inhand": -2074,
   "cost": 1350,
   "rate": 1595,
   "description": "HAANI METAL (GRW)",
@@ -9861,14 +9858,14 @@
  },
  {
   "description": "TAWA (NS) IRON NO.12''",
-  "qty_inhand": -32,
+  "qty_inhand": -38,
   "cost": 570,
   "rate": 975,
   "catagory": "TAWA"
  },
  {
   "description": "TAWA (NS) IRON NO.13''",
-  "qty_inhand": 7,
+  "qty_inhand": 3,
   "cost": 650,
   "rate": 1075,
   "catagory": "TAWA",
@@ -9891,7 +9888,7 @@
  },
  {
   "description": "TAWA (NS) PIZA FINE NO.2",
-  "qty_inhand": -275,
+  "qty_inhand": -279,
   "cost": 1440,
   "rate": 1850,
   "description": "SAWAN MATEL FINE NS (GRW)",
@@ -9959,7 +9956,7 @@
  },
  {
   "description": "TAWA LASER CUTTING (30CM)",
-  "qty_inhand": 27,
+  "qty_inhand": 26,
   "cost": 2976,
   "rate": 3875,
   "catagory": "TAWA"
@@ -9989,21 +9986,21 @@
  },
  {
   "description": "THAAL 13\" (16G)",
-  "qty_inhand": -1539,
+  "qty_inhand": -1604,
   "cost": 245,
   "rate": 305,
   "catagory": "THAAL"
  },
  {
   "description": "THAAL 13\" (18G)",
-  "qty_inhand": -4954,
+  "qty_inhand": -4980,
   "cost": 140,
   "rate": 210,
   "catagory": "THAAL"
  },
  {
   "description": "THAAL 15\" (16G)",
-  "qty_inhand": -105,
+  "qty_inhand": -111,
   "cost": 275,
   "rate": 415,
   "catagory": "THAAL"
@@ -10017,14 +10014,14 @@
  },
  {
   "description": "THAAL 15\" (18G)",
-  "qty_inhand": -2816,
+  "qty_inhand": -2822,
   "cost": 210,
   "rate": 265,
   "catagory": "THAAL"
  },
  {
   "description": "THAAL 17\" (16G)",
-  "qty_inhand": -544,
+  "qty_inhand": -550,
   "cost": 420,
   "rate": 520,
   "catagory": "THAAL"
@@ -10038,7 +10035,7 @@
  },
  {
   "description": "THAAL 17\" (18G)",
-  "qty_inhand": -987,
+  "qty_inhand": -993,
   "cost": 260,
   "rate": 325,
   "catagory": "THAAL"
@@ -10093,29 +10090,29 @@
   "catagory": "THAAL"
  },
  {
-  "description": "THARMAS (3 L)",
-  "qty_inhand": -87,
+  "description": "THARMAS AT (3 L)",
+  "qty_inhand": -73,
   "cost": 2500,
   "rate": 3125,
   "catagory": "THARMAS"
  },
  {
   "description": "THARMAS CAPRA STEEL (1 L)",
-  "qty_inhand": 13,
+  "qty_inhand": 1,
   "cost": 1310,
   "rate": 1575,
   "catagory": "THARMAS"
  },
  {
   "description": "THARMAS CAPRA STEEL (2 L)",
-  "qty_inhand": 99,
+  "qty_inhand": 76,
   "cost": 1410,
   "rate": 1690,
   "catagory": "THARMAS"
  },
  {
   "description": "THARMAS CAPRA STEEL (2 L)(CLR)",
-  "qty_inhand": 23,
+  "qty_inhand": 11,
   "cost": 1510,
   "rate": 1790,
   "catagory": "THARMAS"
@@ -10130,14 +10127,14 @@
  },
  {
   "description": "THARMAS DAY 7 (0.3)",
-  "qty_inhand": -145,
+  "qty_inhand": -169,
   "cost": 180,
   "rate": 225,
   "catagory": "THARMAS"
  },
  {
   "description": "THARMAS DYNASTY GOLD (1 L)",
-  "qty_inhand": -94,
+  "qty_inhand": -101,
   "cost": 1100,
   "rate": 1315,
   "catagory": "THARMAS"
@@ -10158,7 +10155,7 @@
  },
  {
   "description": "THARMAS POLO PB (1 L)",
-  "qty_inhand": -266,
+  "qty_inhand": -269,
   "cost": 960,
   "rate": 1160,
   "catagory": "THARMAS"
@@ -10172,7 +10169,7 @@
  },
  {
   "description": "THARMAS SAFRON (CS) (1.9L)",
-  "qty_inhand": -177,
+  "qty_inhand": -182,
   "cost": 1380,
   "rate": 1660,
   "catagory": "THARMAS"
@@ -10193,7 +10190,7 @@
  },
  {
   "description": "THARMAS X6 (CS-SS) (1 L)",
-  "qty_inhand": -287,
+  "qty_inhand": -302,
   "cost": 1160,
   "rate": 1425,
   "catagory": "THARMAS",
@@ -10221,7 +10218,7 @@
   "catagory": "TIFFAN"
  },
  {
-  "description": "TIFFAN 3 KHANA (H\/C) STEEL",
+  "description": "TIFFAN 3 KHANA (H/C) STEEL",
   "qty_inhand": -291,
   "cost": 1280,
   "rate": 1675,
@@ -10250,7 +10247,7 @@
   "catagory": "TIFFAN"
  },
  {
-  "description": "TIFFAN 4 KHANA (H\/C) STEEL",
+  "description": "TIFFAN 4 KHANA (H/C) STEEL",
   "qty_inhand": -309,
   "cost": 1480,
   "rate": 1925,
@@ -10321,7 +10318,7 @@
  },
  {
   "description": "TRY (16G)",
-  "qty_inhand": -80,
+  "qty_inhand": -88,
   "cost": 550,
   "rate": 725,
   "catagory": "TRY"
@@ -10335,7 +10332,7 @@
  },
  {
   "description": "TRY JUMBOO (16G)",
-  "qty_inhand": -1824,
+  "qty_inhand": -1830,
   "cost": 850,
   "rate": 1050,
   "catagory": "TRY",
@@ -10343,14 +10340,14 @@
  },
  {
   "description": "TRY KING (16G)",
-  "qty_inhand": -1539,
+  "qty_inhand": -1545,
   "cost": 625,
   "rate": 825,
   "catagory": "TRY"
  },
  {
   "description": "TRY PUNJAB (16G)",
-  "qty_inhand": -1882,
+  "qty_inhand": -1891,
   "cost": 750,
   "rate": 950,
   "catagory": "TRY"
@@ -10399,14 +10396,6 @@
   "qty_inhand": -57,
   "cost": 980,
   "rate": 1325,
-  "catagory": "TRY"
- },
- {
-  "description": "TRY SET GRACE  PEARL (3P)",
-  "qty_inhand": 6,
-  "cost": 2736,
-  "rate": 3100,
-  "description": "GRACE WARE (RWP)",
   "catagory": "TRY"
  },
  {
@@ -10475,10 +10464,11 @@
   "fld_brand": "GRACE WARE"
  },
  {
-  "description": "TRY SET GRACE RIVOLI (3P)",
-  "qty_inhand": -17,
-  "cost": 1870,
-  "rate": 2040,
+  "description": "TRY SET GRACE PEARL (3P)",
+  "qty_inhand": 5,
+  "cost": 2736,
+  "rate": 3100,
+  "description": "GRACE WARE (RWP)",
   "catagory": "TRY"
  },
  {
@@ -10501,7 +10491,7 @@
  },
  {
   "description": "TRY SET GRACE VALUE (3P)",
-  "qty_inhand": 4,
+  "qty_inhand": 3,
   "cost": 2736,
   "rate": 3240,
   "description": "GRACE WARE (RWP)",
@@ -10573,10 +10563,18 @@
  },
  {
   "description": "TRY SET ROYAL DINE (3P)",
-  "qty_inhand": -176,
+  "qty_inhand": -199,
   "cost": 1125,
   "rate": 1525,
   "description": "ROUND DINER ADIL SB (GRW)",
+  "catagory": "TRY"
+ },
+ {
+  "description": "TRY SET SAFFRON (3P)",
+  "qty_inhand": 46,
+  "cost": 1900,
+  "rate": 2500,
+  "description": "BRIDEL DINNER SAEED SB (GRW)",
   "catagory": "TRY"
  },
  {
@@ -10629,29 +10627,29 @@
   "catagory": "TRY"
  },
  {
-  "description": "TUMBLER AKURA",
-  "qty_inhand": 2,
-  "cost": 1050,
-  "rate": 1450,
-  "catagory": "TUMBLER"
- },
- {
-  "description": "TUMBLER HYDRA FLOW KUNDA",
-  "qty_inhand": 1,
-  "cost": 1200,
-  "rate": 1600,
-  "catagory": "TUMBLER"
- },
- {
-  "description": "TUMBLER WHITE BOX",
+  "description": "TUMBLER (LDD)",
   "qty_inhand": 8,
-  "cost": 1000,
-  "rate": 1250,
+  "cost": 950,
+  "rate": 1300,
+  "catagory": "TUMBLER"
+ },
+ {
+  "description": "TUMBLER AKURA PRINT (1200ML)",
+  "qty_inhand": 31,
+  "cost": 1350,
+  "rate": 1750,
+  "catagory": "TUMBLER"
+ },
+ {
+  "description": "TUMBLER KUNDA (A)",
+  "qty_inhand": 6,
+  "cost": 850,
+  "rate": 1200,
   "catagory": "TUMBLER"
  },
  {
   "description": "TUP (OP) (22 & 24) (14G)",
-  "qty_inhand": 35,
+  "qty_inhand": 25,
   "cost": 590,
   "rate": 815,
   "catagory": "TUP"
@@ -10672,14 +10670,14 @@
  },
  {
   "description": "TUP NO.5",
-  "qty_inhand": -1724,
+  "qty_inhand": -1739,
   "cost": 1800,
   "rate": 2735,
   "catagory": "TUP"
  },
  {
   "description": "TUP NO.6",
-  "qty_inhand": -430,
+  "qty_inhand": -437,
   "cost": 2400,
   "rate": 3250,
   "catagory": "TUP"
@@ -10700,7 +10698,7 @@
  },
  {
   "description": "WATER SET FINE JUMBO",
-  "qty_inhand": -1313,
+  "qty_inhand": -1317,
   "cost": 1950,
   "rate": 2625,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -10708,7 +10706,7 @@
  },
  {
   "description": "WATER SET FINE KING",
-  "qty_inhand": -3035,
+  "qty_inhand": -3045,
   "cost": 1750,
   "rate": 2095,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -10724,7 +10722,7 @@
  },
  {
   "description": "WATER SET FINE PUNJAB",
-  "qty_inhand": -1603,
+  "qty_inhand": -1607,
   "cost": 1950,
   "rate": 2325,
   "description": "ISHFAQ SB WATER SET (GRW)",
@@ -10740,7 +10738,7 @@
  },
  {
   "description": "WATER SET H.H AL KHAIR & 3 STAR",
-  "qty_inhand": -15,
+  "qty_inhand": -27,
   "cost": 2000,
   "rate": 2625,
   "catagory": "WATER SET"
@@ -10761,7 +10759,7 @@
  },
  {
   "description": "WATER SET MEHRAN (F) (14G)",
-  "qty_inhand": -25,
+  "qty_inhand": -27,
   "cost": 1880,
   "rate": 2350,
   "description": "MEHRAN STEEL (GRW)",
@@ -10769,7 +10767,7 @@
  },
  {
   "description": "WATER SET WINE (INDIAN)",
-  "qty_inhand": -1285,
+  "qty_inhand": -1291,
   "cost": 2950,
   "rate": 3700,
   "catagory": "WATER SET"
@@ -10790,8 +10788,8 @@
  },
  {
   "description": "WELNA SET MELAMINE (GOL+CHORAS)",
-  "qty_inhand": 130,
-  "cost": 1050,
+  "qty_inhand": 110,
+  "cost": 1000,
   "rate": 1325,
   "catagory": "WELNA SET",
   "fld_brand": "SK"
